@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boletim Escolar Digital</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1 id="school-name">Carregando...</h1>
+            <p id="system-info">-</p>
+        </div>
+
+        <div class="controls">
+            <div class="control-group class-group">
+                <label for="class-select" class="info-label">Turma:</label>
+                <select id="class-select">
+                    <option value="">Selecione a turma...</option>
+                </select>
+            </div>
+            <div class="control-group student-group">
+                <label for="student-select" class="info-label">Aluno:</label>
+                <select id="student-select">
+                    <option value="">Selecione um aluno...</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="student-card">
+            <div class="info-group">
+                <span class="info-label">Nome do Aluno</span>
+                <span class="info-value" id="student-name">-</span>
+            </div>
+            <div class="info-group">
+                <span class="info-label">Nº Chamada</span>
+                <span class="info-value" id="student-number">-</span>
+            </div>
+            <div class="info-group">
+                <span class="info-label">Turma</span>
+                <span class="info-value" id="student-class">-</span>
+            </div>
+            <div class="info-group">
+                <span class="info-label">Situação</span>
+                <span class="info-value" id="student-status">-</span>
+            </div>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <span class="stat-label">Total de Faltas</span>
+                    <span class="stat-value" id="total-faltas">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Frequência Geral</span>
+                    <span class="stat-value" id="general-freq">0%</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="notes-container">
+            <span id="closing-type">-</span>
+            <p class="preview-note">
+                * A nota final (5º conceito) é apenas uma prévia baseada na média aritmética dos bimestres preenchidos.
+            </p>
+        </div>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th class="subject-td">Disciplina</th>
+                        <th>1º Bim</th>
+                        <th>2º Bim</th>
+                        <th>3º Bim</th>
+                        <th>4º Bim</th>
+                        <th>Final</th>
+                        <th>Faltas</th>
+                        <th>A.C.</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody id="grades-body">
+                    <!-- JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+        <div class="footer">
+            <p>Documento gerado em 16 de junho de 2026.</p>
+        </div>
+    </div>
+
+    <script src="data/data.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (typeof BOLETIM_DATA === 'undefined') {
+                alert('Erro: Arquivo de dados não encontrado.');
+                return;
+            }
+
+            const classes = BOLETIM_DATA;
+            const classSelect = document.getElementById('class-select');
+            const studentSelect = document.getElementById('student-select');
+
+            // Populate Class Selector
+            classes.forEach((classData, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                option.textContent = classData.metadata.turma;
+                classSelect.appendChild(option);
+            });
+
+            function populateStudents(classIndex) {
+                const students = classes[classIndex].students;
+                studentSelect.innerHTML = '';
+                students.forEach((student, index) => {
+                    const option = document.createElement('option');
+                    option.value = index;
+                    option.textContent = student.name;
+                    studentSelect.appendChild(option);
+                });
+
+                // Update Metadata for the selected class
+                const metadata = classes[classIndex].metadata;
+                document.getElementById('school-name').textContent = metadata.escola;
+                document.getElementById('system-info').textContent = `${metadata.tipo_ensino} | Ano Letivo: ${metadata.ano}`;
+                document.getElementById('student-class').textContent = metadata.turma;
+                document.getElementById('closing-type').textContent = metadata.tipo_fechamento;
+
+                // Load first student
+                if (students.length > 0) {
+                    studentSelect.value = 0;
+                    updateUI(students[0]);
+                }
+            }
+
+            classSelect.addEventListener('change', (e) => {
+                if (e.target.value !== "") {
+                    populateStudents(e.target.value);
+                }
+            });
+
+            studentSelect.addEventListener('change', (e) => {
+                const classIdx = classSelect.value;
+                const studentIdx = e.target.value;
+                if (classIdx !== "" && studentIdx !== "") {
+                    updateUI(classes[classIdx].students[studentIdx]);
+                }
+            });
+
+            // Initial load
+            if (classes.length > 0) {
+                classSelect.value = 0;
+                populateStudents(0);
+            }
+        });
+
+        function cleanSubjectName(name) {
+            // Remove numbers at the end (codes)
+            return name.replace(/\d+$/, '').trim();
+        }
+
+        function isLowGrade(grade) {
+            if (grade === '-' || grade === 'nan') return false;
+            const val = parseFloat(grade.replace(',', '.'));
+            if (!isNaN(val)) return val < 5;
+            // Letter grades: EP (Parcial) and ED (Deficitário/Baixo) are considered low
+            return ['EP', 'ED'].includes(grade.toUpperCase());
+        }
+
+        function updateUI(student) {
+            const isAtivo = student.situacao.toLowerCase() === 'ativo';
+            const nameEl = document.getElementById('student-name');
+            const statusEl = document.getElementById('student-status');
+            const freqEl = document.getElementById('general-freq');
+            
+            nameEl.textContent = student.name;
+            statusEl.innerHTML = student.situacao + (isAtivo ? '' : ' <span class="status-badge-inactive">Inativo na Turma</span>');
+            
+            document.getElementById('total-faltas').textContent = student.total_faltas;
+            freqEl.textContent = student.frequencia;
+
+            // Frequency Traffic Light (Farol)
+            const freqValue = parseFloat(student.frequencia.replace('%', '').replace(',', '.'));
+            freqEl.className = 'stat-value'; // Reset
+            if (freqValue >= 90) freqEl.classList.add('freq-green');
+            else if (freqValue >= 85) freqEl.classList.add('freq-yellow');
+            else freqEl.classList.add('freq-red');
+
+            // Get student number from first subject record
+            document.getElementById('student-number').textContent = student.grades[0].numero;
+
+            const tbody = document.getElementById('grades-body');
+            tbody.innerHTML = '';
+
+            // Apply visual indication if not active
+            if (!isAtivo) {
+                tbody.classList.add('inactive-overlay');
+            } else {
+                tbody.classList.remove('inactive-overlay');
+            }
+
+            student.grades.forEach(g => {
+                const tr = document.createElement('tr');
+                
+                // Calculate Preview Grade (Average of filled bimesters)
+                const bimestres = [g.bim1, g.bim2, g.bim3, g.bim4];
+                let sum = 0;
+                let count = 0;
+                
+                bimestres.forEach(b => {
+                    if (b !== '-' && b !== 'nan') {
+                        const val = parseFloat(b.replace(',', '.'));
+                        if (!isNaN(val)) {
+                            sum += val;
+                            count++;
+                        } else {
+                            const mapping = { 'ET': 10, 'ES': 8, 'EP': 5, 'ED': 3 };
+                            const letterVal = mapping[b.toUpperCase()];
+                            if (letterVal !== undefined) {
+                                sum += letterVal;
+                                count++;
+                            }
+                        }
+                    }
+                });
+
+                let previewGrade = '-';
+                if (count > 0) {
+                    previewGrade = (sum / count).toFixed(1).replace('.', ',');
+                }
+
+                const finalGradeVal = previewGrade !== '-' ? parseFloat(previewGrade.replace(',', '.')) : NaN;
+                const freqValue = parseFloat(student.frequencia.replace('%', '').replace(',', '.'));
+
+                let statusClass = 'status-neutro';
+                let statusText = isAtivo ? 'Em curso' : '-';
+
+                if (isAtivo) {
+                    const hasGrade = !isNaN(finalGradeVal);
+                    const hasLowGrade = hasGrade && finalGradeVal < 5;
+                    const hasLowFreq = !isNaN(freqValue) && freqValue < 75;
+
+                    if (hasLowGrade && hasLowFreq) {
+                        statusClass = 'status-reprovado';
+                        statusText = 'Retido (Nota/Freq)';
+                    } else if (hasLowFreq) {
+                        statusClass = 'status-reprovado';
+                        statusText = 'Retido por Frequência';
+                    } else if (hasLowGrade) {
+                        statusClass = 'status-reprovado';
+                        statusText = 'Retido por Nota';
+                    } else if (hasGrade) {
+                        statusClass = 'status-aprovado';
+                        statusText = 'Aprovado';
+                    } else {
+                        statusClass = 'status-neutro';
+                        statusText = 'Em curso';
+                    }
+                }
+
+                const bim1Class = isLowGrade(g.bim1) ? 'grade-low' : '';
+                const bim2Class = isLowGrade(g.bim2) ? 'grade-low' : '';
+                const bim3Class = isLowGrade(g.bim3) ? 'grade-low' : '';
+                const bim4Class = isLowGrade(g.bim4) ? 'grade-low' : '';
+                const finalClass = isLowGrade(previewGrade) ? 'grade-low' : '';
+
+                tr.innerHTML = `
+                    <td class="subject-td">${cleanSubjectName(g.subject)}</td>
+                    <td class="${bim1Class}">${g.bim1}</td>
+                    <td class="${bim2Class}">${g.bim2}</td>
+                    <td class="${bim3Class}">${g.bim3}</td>
+                    <td class="${bim4Class}">${g.bim4}</td>
+                    <td><span class="mencao-badge ${finalClass}">${previewGrade}</span></td>
+                    <td>${g.faltas}</td>
+                    <td>${g.ausencia_compensada}</td>
+                    <td class="${statusClass}">${statusText}</td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+    </script>
+</body>
+</html>
