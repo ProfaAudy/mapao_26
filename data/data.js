@@ -9140,5 +9140,5251 @@ const BOLETIM_DATA = [
                 "frequencia": "100%"
             }
         ]
+    },
+    {
+        "metadata": {
+            "ano": "2026",
+            "diretoria": "Leste 4",
+            "escola": "Exercito Brasileiro",
+            "tipo_ensino": "104 - NOVO ENSINO MÉDIO COM HABILITAÇÃO PROFISSIONAL",
+            "turma": "6082 - DESENVOLVIMENTO DE SISTEMAS - 3ª SERIE C MANHA ANUAL",
+            "tipo_fechamento": "Conselho Primeiro Bimestre"
+        },
+        "subjects": [
+            {
+                "name": "EDUCACAO FISICA 1900",
+                "col_idx": 2
+            },
+            {
+                "name": "INTELIGENCIA ARTIFICIAL 51004",
+                "col_idx": 6
+            },
+            {
+                "name": "LINGUA PORTUGUESA 1100",
+                "col_idx": 10
+            },
+            {
+                "name": "MATEMATICA 2700",
+                "col_idx": 14
+            },
+            {
+                "name": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                "col_idx": 18
+            },
+            {
+                "name": "PROGRAMAÇAO BACK-END 51008",
+                "col_idx": 22
+            },
+            {
+                "name": "PROGRAMAÇAO FRONT-END 51009",
+                "col_idx": 26
+            },
+            {
+                "name": "PROGRAMAÇAO MOBILE 51006",
+                "col_idx": 30
+            },
+            {
+                "name": "PROJETO MULTIDISCIPLINAR 9936",
+                "col_idx": 34
+            },
+            {
+                "name": "Versionamento de Código e Sistemas de Mensageria 51001",
+                "col_idx": 38
+            }
+        ],
+        "students": [
+            {
+                "name": "ADRIELY BRENDA FERREIRA BARBOSA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "1",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "1",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "11",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "1",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "1",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "7"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "1",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "1",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "1",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "1",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "1",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "1",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "52",
+                "frequencia": "78%"
+            },
+            {
+                "name": "ANDRE VITO LOPES",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "2",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "2",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "2",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "2",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "2",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "2",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "2",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "2",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "2",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "2",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "7",
+                "frequencia": "97%"
+            },
+            {
+                "name": "BIANCA EGEA ARAUJO DOS SANTOS",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "3",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "3",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "3",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "3",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "2"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "3",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "3",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "3",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "3",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "3",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "3",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "7",
+                "frequencia": "97%"
+            },
+            {
+                "name": "CAIQUE DOS SANTOS SOTTO",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "4",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "4",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "4",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "4",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "4",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "4",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "4",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "4",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "4",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "4",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "11",
+                "frequencia": "95%"
+            },
+            {
+                "name": "CAMILA VIDEIRA ROMAGNOLI",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "5",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "5",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "5",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "9",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "5",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "9",
+                        "ausencia_compensada": "9"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "5",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "5",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "5",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "5",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "5",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "16",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "5",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "64",
+                "frequencia": "73%"
+            },
+            {
+                "name": "CESAR AUGUSTO VIEIRA BRITO",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "6",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "6",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "13",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "6",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "6",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "7"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "6",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "6",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "6",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "6",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "12",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "6",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "12",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "6",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "9",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "73",
+                "frequencia": "69%"
+            },
+            {
+                "name": "DANIEL MESAQUE ALAUK DA CRUZ",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "7",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "7",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "7",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "7",
+                        "bim1": "2",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "5"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "7",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "7",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "7",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "7",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "7",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "7",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "40",
+                "frequencia": "83%"
+            },
+            {
+                "name": "DAVID FERRAZ FROTA AFONSO",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "8",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "8",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "8",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "8",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "2"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "8",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "8",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "8",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "8",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "8",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "8",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "8",
+                "frequencia": "97%"
+            },
+            {
+                "name": "EMERSON LEANDRO RAMOS RODRIGUES",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "9",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "9",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "9",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "9",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "1"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "9",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "9",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "9",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "9",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "9",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "9",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "27",
+                "frequencia": "89%"
+            },
+            {
+                "name": "FABIANO LIMA DO NASCIMENTO",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "10",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "10",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "10",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "10",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "2"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "10",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "10",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "10",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "10",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "10",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "10",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "17",
+                "frequencia": "93%"
+            },
+            {
+                "name": "FELLYPE OTTO NUNES LUCENA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "11",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "11",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "11",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "11",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "4"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "11",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "11",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "11",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "11",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "11",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "11",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "25",
+                "frequencia": "89%"
+            },
+            {
+                "name": "GABRIEL CARDOSO MIRANDA DA CUNHA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "12",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "12",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "12",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "12",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "2"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "12",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "12",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "12",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "12",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "12",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "12",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "22",
+                "frequencia": "91%"
+            },
+            {
+                "name": "GABRIEL SILVA OLIVEIRA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "13",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "13",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "13",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "13",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "13",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "13",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "13",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "13",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "13",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "13",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "14",
+                "frequencia": "94%"
+            },
+            {
+                "name": "GUSTAVO NASCIMENTO MARQUES",
+                "situacao": "Baixa - Transferência",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "14",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "14",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "14",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "15",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "14",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "11",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "14",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "14",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "11",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "14",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "11",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "14",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "14",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "14",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "64",
+                "frequencia": "73%"
+            },
+            {
+                "name": "IGOR FERREIRA BASTOS",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "15",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "15",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "15",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "15",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "4"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "15",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "15",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "15",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "15",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "15",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "15",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "57",
+                "frequencia": "76%"
+            },
+            {
+                "name": "ISABELLA ARCHAPA NASCIMENTO",
+                "situacao": "Baixa - Transferência",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "16",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "16",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "16",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "16",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "16",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "16",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "16",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "16",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "16",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "16",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "22",
+                "frequencia": "91%"
+            },
+            {
+                "name": "JHULIAN ESTIF MAITA MAMANI",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "17",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "17",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "17",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "17",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "2"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "17",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "17",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "17",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "17",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "17",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "17",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "17",
+                "frequencia": "93%"
+            },
+            {
+                "name": "JOAO VICTOR PEREIRA BRITO DA SILVA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "18",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "18",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "18",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "11",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "18",
+                        "bim1": "2",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "6"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "18",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "18",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "18",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "18",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "18",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "14",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "18",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "9",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "68",
+                "frequencia": "71%"
+            },
+            {
+                "name": "JOAO VITOR MACHADO GOMES",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "19",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "19",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "19",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "19",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "5"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "19",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "19",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "19",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "19",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "19",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "19",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "31",
+                "frequencia": "87%"
+            },
+            {
+                "name": "KATHARINA SERTORIO CASTILHO",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "20",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "20",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "20",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "20",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "2"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "20",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "20",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "20",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "20",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "20",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "20",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "27",
+                "frequencia": "89%"
+            },
+            {
+                "name": "KAUA CECCONI FARINA DE SOUSA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "21",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "21",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "21",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "21",
+                        "bim1": "2",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "5"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "21",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "21",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "21",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "21",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "21",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "21",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "34",
+                "frequencia": "86%"
+            },
+            {
+                "name": "KEVIN BRYAN VELASQUEZ BALBOA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "22",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "22",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "22",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "22",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "2"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "22",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "22",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "22",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "22",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "22",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "22",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "4",
+                "frequencia": "98%"
+            },
+            {
+                "name": "LARISSA VITORIA RIBEIRO SOUSA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "23",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "23",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "23",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "23",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "23",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "23",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "23",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "23",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "23",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "23",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "6",
+                "frequencia": "97%"
+            },
+            {
+                "name": "LEONEL RONALDO COPA RAMOS",
+                "situacao": "Transferido",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "24",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "24",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "24",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "24",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "24",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "24",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "24",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "24",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "24",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "24",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "13",
+                "frequencia": "94%"
+            },
+            {
+                "name": "LUIZ GUSTAVO AMORIM CAETANO",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "25",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "25",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "25",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "25",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "2"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "25",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "25",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "25",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "25",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "25",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "25",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "6",
+                "frequencia": "97%"
+            },
+            {
+                "name": "MAICOLN LIMA DE FREITAS",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "26",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "26",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "26",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "26",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "26",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "26",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "26",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "26",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "26",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "26",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "4",
+                "frequencia": "98%"
+            },
+            {
+                "name": "MARIA CLARA FIGUEIREDO LIMA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "27",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "27",
+                        "bim1": "1",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "11",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "27",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "11",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "27",
+                        "bim1": "2",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "11",
+                        "ausencia_compensada": "11"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "27",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "27",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "27",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "14",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "27",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "14",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "27",
+                        "bim1": "2",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "12",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "27",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "98",
+                "frequencia": "58%"
+            },
+            {
+                "name": "MATHEUS BRUM SANTOS DE ALVARENGA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "28",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "28",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "28",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "28",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "4"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "28",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "28",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "28",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "28",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "28",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "28",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "13",
+                "frequencia": "94%"
+            },
+            {
+                "name": "MATHEUS CARDOSO DE OLIVEIRA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "29",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "29",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "29",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "29",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "29",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "29",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "29",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "29",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "29",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "29",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "0",
+                "frequencia": "100%"
+            },
+            {
+                "name": "MATHEUS PEREIRA SALES",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "30",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "30",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "30",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "30",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "30",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "30",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "30",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "30",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "30",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "30",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "0",
+                "frequencia": "100%"
+            },
+            {
+                "name": "MIGUEL CALDEIRA SANTOS",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "31",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "31",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "31",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "31",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "31",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "31",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "31",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "31",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "31",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "31",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "1",
+                "frequencia": "100%"
+            },
+            {
+                "name": "PEDRO HENRIQUE BRITO VILARINDO",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "32",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "32",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "32",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "32",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "32",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "32",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "32",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "32",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "32",
+                        "bim1": "8",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "32",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "2",
+                "frequencia": "99%"
+            },
+            {
+                "name": "PEDRO HENRIQUE DOS SANTOS",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "33",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "33",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "33",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "33",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "3"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "33",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "33",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "33",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "33",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "33",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "33",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "12",
+                "frequencia": "95%"
+            },
+            {
+                "name": "PYETRO ALCANTARA DE LIMA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "34",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "34",
+                        "bim1": "2",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "34",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "34",
+                        "bim1": "2",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "2"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "34",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "34",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "34",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "34",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "34",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "9",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "34",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "46",
+                "frequencia": "80%"
+            },
+            {
+                "name": "RAQUEL QUERIN APUQUE ZANIN ROQUE",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "35",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "35",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "35",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "11",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "35",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "7"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "35",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "35",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "35",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "35",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "35",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "14",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "35",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "70",
+                "frequencia": "70%"
+            },
+            {
+                "name": "ROGERIO DIAS NASCIMENTO FILHO",
+                "situacao": "Transferido",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "36",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "36",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "36",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "36",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "36",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "36",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "36",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "36",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "36",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "36",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "34",
+                "frequencia": "86%"
+            },
+            {
+                "name": "VICTOR HUGO DA SILVA LIMA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "37",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "37",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "37",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "37",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "37",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "37",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "37",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "37",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "37",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "37",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "18",
+                "frequencia": "92%"
+            },
+            {
+                "name": "VINICIUS GIMENEZ DA COSTA",
+                "situacao": "Remanejamento",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "38",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "38",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "38",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "38",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "38",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "38",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "38",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "38",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "38",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "38",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "11",
+                "frequencia": "95%"
+            },
+            {
+                "name": "VINICIUS GIMENEZ DA COSTA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "39",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "39",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "39",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "39",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "4"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "39",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "39",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "39",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "39",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "39",
+                        "bim1": "6",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "39",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "30",
+                "frequencia": "87%"
+            },
+            {
+                "name": "WEVERTON CLEITON APARECIDO DOS REIS FERREIRA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "40",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "3",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "40",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "40",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "13",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "40",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "7"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "40",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "40",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "40",
+                        "bim1": "9",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "11",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "40",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "9",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "40",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "40",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "76",
+                "frequencia": "68%"
+            },
+            {
+                "name": "YKARO DOS PASSOS SILVA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "41",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "41",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "41",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "41",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "5"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "41",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "41",
+                        "bim1": "10",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "41",
+                        "bim1": "7",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "41",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "5",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "41",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "41",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "7",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "52",
+                "frequencia": "78%"
+            },
+            {
+                "name": "YUMI EUGENIO URATA",
+                "situacao": "Baixa - Transferência",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "42",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "42",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "42",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "42",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "42",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "42",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "42",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "42",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "42",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "42",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "24",
+                "frequencia": "90%"
+            },
+            {
+                "name": "DANIEL SOUZA GONZAGA",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "43",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "43",
+                        "bim1": "2",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "43",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "43",
+                        "bim1": "0",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "43",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "43",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "43",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "43",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "43",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "43",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "1",
+                "frequencia": "100%"
+            },
+            {
+                "name": "HERLAN SATURNINO BAZAN",
+                "situacao": "Ativo",
+                "grades": [
+                    {
+                        "subject": "EDUCACAO FISICA 1900",
+                        "numero": "44",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "INTELIGENCIA ARTIFICIAL 51004",
+                        "numero": "44",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "LINGUA PORTUGUESA 1100",
+                        "numero": "44",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "1",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MATEMATICA 2700",
+                        "numero": "44",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "MODELAGEM E DESENVOLVIMENTO DE BANCO DE DADOS 51010",
+                        "numero": "44",
+                        "bim1": "-",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "-",
+                        "ausencia_compensada": "-"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO BACK-END 51008",
+                        "numero": "44",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO FRONT-END 51009",
+                        "numero": "44",
+                        "bim1": "3",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROGRAMAÇAO MOBILE 51006",
+                        "numero": "44",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "PROJETO MULTIDISCIPLINAR 9936",
+                        "numero": "44",
+                        "bim1": "4",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    },
+                    {
+                        "subject": "Versionamento de Código e Sistemas de Mensageria 51001",
+                        "numero": "44",
+                        "bim1": "5",
+                        "bim2": "-",
+                        "bim3": "-",
+                        "bim4": "-",
+                        "final": "-",
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
+                    }
+                ],
+                "total_faltas": "1",
+                "frequencia": "100%"
+            }
+        ]
     }
 ];
