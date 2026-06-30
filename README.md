@@ -26,13 +26,11 @@ Este projeto automatiza a geração de boletins escolares a partir de arquivos "
 
 Sempre que houver um novo arquivo de Mapão ou atualização de notas:
 
-1.  Coloque o arquivo `.xlsx` atualizado na pasta `sources/`.
-2.  Certifique-se de que o caminho do arquivo no script `scripts/extract_data.py` está correto.
-3.  Execute o script de extração:
-    ```bash
-    python scripts/extract_data.py
-    ```
-4.  O arquivo `data/data.js` será atualizado e o `index.html` refletirá as novas notas imediatamente.
+1. Coloque o arquivo `.xlsx` atualizado na pasta `sources/`.
+2. Dê um duplo clique no arquivo `atualizar_boletim.bat` na raiz do projeto.
+3. O script irá processar os dados em Python e enviar as atualizações automaticamente para o GitHub.
+
+*(Nota: Caso queira fazer a extração manualmente sem enviar para o GitHub, você ainda pode rodar `python scripts/extract_data.py` no terminal).*
 
 ## 📋 Requisitos
 
