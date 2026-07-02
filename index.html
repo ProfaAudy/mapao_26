@@ -239,8 +239,8 @@
             // Frequency Traffic Light (Farol)
             const freqValue = parseFloat(student.frequencia.replace('%', '').replace(',', '.'));
             freqEl.className = 'stat-value'; // Reset
-            if (freqValue >= 90) freqEl.classList.add('freq-green');
-            else if (freqValue >= 85) freqEl.classList.add('freq-yellow');
+            if (freqValue >= 81) freqEl.classList.add('freq-green');
+            else if (freqValue >= 75) freqEl.classList.add('freq-yellow');
             else freqEl.classList.add('freq-red');
 
             // Get student number from first subject record
