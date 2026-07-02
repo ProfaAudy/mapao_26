@@ -23,9 +23,17 @@
             </div>
             <div class="control-group student-group">
                 <label for="student-select" class="info-label">Aluno:</label>
-                <select id="student-select">
-                    <option value="">Selecione um aluno...</option>
-                </select>
+                <div class="student-navigation">
+                    <button id="prev-student-btn" class="btn-nav" title="Aluno Anterior">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+                    </button>
+                    <select id="student-select">
+                        <option value="">Selecione um aluno...</option>
+                    </select>
+                    <button id="next-student-btn" class="btn-nav" title="Próximo Aluno">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+                    </button>
+                </div>
             </div>
         </div>
 
@@ -149,8 +157,37 @@
                 if (students.length > 0) {
                     studentSelect.value = 0;
                     updateUI(students[0]);
+                    updateNavButtons();
                 }
             }
+
+            const prevStudentBtn = document.getElementById('prev-student-btn');
+            const nextStudentBtn = document.getElementById('next-student-btn');
+
+            function updateNavButtons() {
+                const currentIdx = parseInt(studentSelect.value);
+                const totalStudents = studentSelect.options.length;
+                
+                prevStudentBtn.disabled = (currentIdx <= 0);
+                nextStudentBtn.disabled = (currentIdx >= totalStudents - 1 || currentIdx < 0);
+            }
+
+            prevStudentBtn.addEventListener('click', () => {
+                const currentIdx = parseInt(studentSelect.value);
+                if (currentIdx > 0) {
+                    studentSelect.value = currentIdx - 1;
+                    studentSelect.dispatchEvent(new Event('change'));
+                }
+            });
+
+            nextStudentBtn.addEventListener('click', () => {
+                const currentIdx = parseInt(studentSelect.value);
+                const totalStudents = studentSelect.options.length;
+                if (currentIdx >= 0 && currentIdx < totalStudents - 1) {
+                    studentSelect.value = currentIdx + 1;
+                    studentSelect.dispatchEvent(new Event('change'));
+                }
+            });
 
             classSelect.addEventListener('change', (e) => {
                 if (e.target.value !== "") {
@@ -163,6 +200,7 @@
                 const studentIdx = e.target.value;
                 if (classIdx !== "" && studentIdx !== "") {
                     updateUI(classes[classIdx].students[studentIdx]);
+                    updateNavButtons();
                 }
             });
 
