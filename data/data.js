@@ -77317,12 +77317,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "1",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -77339,12 +77339,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "1",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -77380,7 +77380,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "20",
+                "total_faltas": "26",
                 "frequencia": "92%"
             },
             {
@@ -77479,12 +77479,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "2",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "24",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -77501,12 +77501,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "2",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -77542,8 +77542,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "99",
-                "frequencia": "60%"
+                "total_faltas": "133",
+                "frequencia": "58%"
             },
             {
                 "name": "ANA BEATRIZ CAVALCANTI MATOS",
@@ -77641,12 +77641,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "3",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "16",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -77663,12 +77663,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "3",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -77704,8 +77704,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "71",
-                "frequencia": "71%"
+                "total_faltas": "91",
+                "frequencia": "72%"
             },
             {
                 "name": "ANNA LAURA DOS SANTOS ALVES",
@@ -77803,12 +77803,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "4",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "17",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -77825,12 +77825,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "4",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -77866,7 +77866,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "51",
+                "total_faltas": "68",
                 "frequencia": "79%"
             },
             {
@@ -77969,8 +77969,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -77991,8 +77991,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -78131,8 +78131,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -78153,8 +78153,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -78191,7 +78191,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "111",
-                "frequencia": "55%"
+                "frequencia": "65%"
             },
             {
                 "name": "FELIPI GUSTAVO PAQUIELA DE OLIVEIRA",
@@ -78289,12 +78289,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "7",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "14",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -78311,12 +78311,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "7",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -78352,8 +78352,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "49",
-                "frequencia": "80%"
+                "total_faltas": "67",
+                "frequencia": "79%"
             },
             {
                 "name": "FERNANDO MEDEIROS DA SILVA",
@@ -78451,12 +78451,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "8",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "9",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -78473,12 +78473,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "8",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -78514,8 +78514,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "25",
-                "frequencia": "90%"
+                "total_faltas": "36",
+                "frequencia": "89%"
             },
             {
                 "name": "GABRIEL OLIVEIRA GONÇALVES",
@@ -78617,8 +78617,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -78639,8 +78639,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -78677,7 +78677,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "19",
-                "frequencia": "92%"
+                "frequencia": "94%"
             },
             {
                 "name": "GABRIEL STEVANIN TAVARES JULIANO",
@@ -78775,12 +78775,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "10",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "11",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -78797,12 +78797,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "10",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -78838,8 +78838,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "35",
-                "frequencia": "86%"
+                "total_faltas": "50",
+                "frequencia": "84%"
             },
             {
                 "name": "GERTUDES ZAU MBUANGI",
@@ -78937,12 +78937,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "11",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -78959,12 +78959,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "11",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -79000,8 +79000,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "34",
-                "frequencia": "86%"
+                "total_faltas": "40",
+                "frequencia": "88%"
             },
             {
                 "name": "GRAZIELLE BARROS DE MEDEIROS",
@@ -79099,12 +79099,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "12",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "15",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -79121,12 +79121,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "12",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -79162,8 +79162,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "50",
-                "frequencia": "80%"
+                "total_faltas": "67",
+                "frequencia": "79%"
             },
             {
                 "name": "GUILHERME ALVES VIEIRA",
@@ -79261,12 +79261,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "13",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -79283,12 +79283,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "13",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -79324,8 +79324,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "36",
-                "frequencia": "85%"
+                "total_faltas": "46",
+                "frequencia": "86%"
             },
             {
                 "name": "GUILHERME DOS SANTOS ARANTES",
@@ -79423,12 +79423,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "14",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "14",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -79445,12 +79445,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "14",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -79486,7 +79486,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "57",
+                "total_faltas": "73",
                 "frequencia": "77%"
             },
             {
@@ -79585,12 +79585,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "15",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -79607,12 +79607,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "15",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -79648,8 +79648,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "60",
-                "frequencia": "76%"
+                "total_faltas": "72",
+                "frequencia": "78%"
             },
             {
                 "name": "GUSTAVO CAETANO SOLOVIOW DE OLIVEIRA",
@@ -79747,12 +79747,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "16",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -79769,12 +79769,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "16",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -79810,8 +79810,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "45",
-                "frequencia": "82%"
+                "total_faltas": "55",
+                "frequencia": "83%"
             },
             {
                 "name": "HALANNA DE ALMEIDA OLTRAMARI",
@@ -79909,12 +79909,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "17",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "13",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -79931,12 +79931,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "17",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -79972,7 +79972,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "54",
+                "total_faltas": "71",
                 "frequencia": "78%"
             },
             {
@@ -80071,12 +80071,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "18",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -80093,12 +80093,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "18",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -80134,7 +80134,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "17",
+                "total_faltas": "21",
                 "frequencia": "93%"
             },
             {
@@ -80233,12 +80233,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "19",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -80255,12 +80255,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "19",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -80296,7 +80296,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "37",
+                "total_faltas": "47",
                 "frequencia": "85%"
             },
             {
@@ -80395,12 +80395,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "20",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -80417,12 +80417,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "20",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -80458,7 +80458,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "45",
+                "total_faltas": "57",
                 "frequencia": "82%"
             },
             {
@@ -80557,12 +80557,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "21",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -80579,12 +80579,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "21",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -80620,7 +80620,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "4",
+                "total_faltas": "6",
                 "frequencia": "98%"
             },
             {
@@ -80719,12 +80719,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "22",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -80741,12 +80741,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "22",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -80782,8 +80782,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "34",
-                "frequencia": "86%"
+                "total_faltas": "42",
+                "frequencia": "87%"
             },
             {
                 "name": "LETHICIA DOS SANTOS BORTUNI",
@@ -80881,12 +80881,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "23",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -80903,12 +80903,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "23",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -80944,8 +80944,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "30",
-                "frequencia": "88%"
+                "total_faltas": "42",
+                "frequencia": "87%"
             },
             {
                 "name": "LUCAS EVANGELISTA DOS SANTOS",
@@ -81043,12 +81043,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "24",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "17",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -81065,12 +81065,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "24",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -81106,7 +81106,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "78",
+                "total_faltas": "101",
                 "frequencia": "68%"
             },
             {
@@ -81205,12 +81205,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "25",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "9",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -81227,12 +81227,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "25",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -81268,7 +81268,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "44",
+                "total_faltas": "57",
                 "frequencia": "82%"
             },
             {
@@ -81371,8 +81371,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -81393,8 +81393,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -81431,7 +81431,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "145",
-                "frequencia": "41%"
+                "frequencia": "55%"
             },
             {
                 "name": "MARIA EDUARDA RITA BATISTA VIEIRA",
@@ -81529,12 +81529,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "27",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "14",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -81551,12 +81551,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "27",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -81592,7 +81592,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "44",
+                "total_faltas": "58",
                 "frequencia": "82%"
             },
             {
@@ -81695,8 +81695,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -81717,8 +81717,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -81755,7 +81755,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "68",
-                "frequencia": "72%"
+                "frequencia": "79%"
             },
             {
                 "name": "MATHEUS ARTHUR FROTA DOS SANTOS",
@@ -81853,12 +81853,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "29",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "14",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -81875,12 +81875,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "29",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -81916,8 +81916,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "43",
-                "frequencia": "82%"
+                "total_faltas": "61",
+                "frequencia": "81%"
             },
             {
                 "name": "MOISES BATISTA VIEIRA",
@@ -82015,12 +82015,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "30",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -82037,12 +82037,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "30",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -82078,7 +82078,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "48",
+                "total_faltas": "64",
                 "frequencia": "80%"
             },
             {
@@ -82177,12 +82177,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "31",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -82199,12 +82199,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "31",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -82240,8 +82240,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "36",
-                "frequencia": "85%"
+                "total_faltas": "42",
+                "frequencia": "87%"
             },
             {
                 "name": "PABLO KILDEY DA SILVA RAMALHO",
@@ -82343,8 +82343,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -82365,8 +82365,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -82501,12 +82501,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "33",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "14",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -82523,12 +82523,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "33",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -82564,8 +82564,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "38",
-                "frequencia": "84%"
+                "total_faltas": "56",
+                "frequencia": "82%"
             },
             {
                 "name": "THAÍNA LEMES DE OLIVEIRA",
@@ -82663,12 +82663,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "34",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "12",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -82685,12 +82685,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "34",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -82726,8 +82726,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "50",
-                "frequencia": "80%"
+                "total_faltas": "62",
+                "frequencia": "81%"
             },
             {
                 "name": "RAQUEL POTENCIANA SANDA MPATA",
@@ -82825,12 +82825,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "35",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -82847,12 +82847,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "35",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -82888,7 +82888,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "36",
+                "total_faltas": "48",
                 "frequencia": "85%"
             },
             {
@@ -82991,8 +82991,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -83013,8 +83013,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -83051,7 +83051,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "142",
-                "frequencia": "42%"
+                "frequencia": "56%"
             },
             {
                 "name": "RYAN SOARES AQUINO",
@@ -83149,12 +83149,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "37",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -83171,12 +83171,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "37",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -83212,8 +83212,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "53",
-                "frequencia": "78%"
+                "total_faltas": "67",
+                "frequencia": "79%"
             },
             {
                 "name": "STEFFANY ELOÁ NEVES HONORATO",
@@ -83311,12 +83311,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "38",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "16",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -83333,12 +83333,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "38",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -83374,8 +83374,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "45",
-                "frequencia": "82%"
+                "total_faltas": "63",
+                "frequencia": "80%"
             },
             {
                 "name": "VICTOR HIROSHI ASSAKAWA KASAMATU",
@@ -83477,8 +83477,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -83499,8 +83499,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -83537,7 +83537,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "47",
-                "frequencia": "81%"
+                "frequencia": "85%"
             },
             {
                 "name": "VINICIUS GIMENEZ DA COSTA",
@@ -83639,8 +83639,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -83661,8 +83661,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -83797,12 +83797,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "41",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "16",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -83819,12 +83819,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "41",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "14",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -83860,8 +83860,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "88",
-                "frequencia": "64%"
+                "total_faltas": "118",
+                "frequencia": "63%"
             },
             {
                 "name": "ZION KALUEMBI SANTOS PORTELA",
@@ -83959,12 +83959,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "42",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -83981,12 +83981,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "42",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -84022,7 +84022,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "26",
+                "total_faltas": "34",
                 "frequencia": "89%"
             },
             {
@@ -84121,12 +84121,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "43",
                         "bim1": "9",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -84143,12 +84143,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "43",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -84184,7 +84184,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "27",
+                "total_faltas": "35",
                 "frequencia": "89%"
             },
             {
@@ -84283,12 +84283,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "44",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -84305,12 +84305,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "44",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "8",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -84346,8 +84346,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "71",
-                "frequencia": "71%"
+                "total_faltas": "89",
+                "frequencia": "72%"
             },
             {
                 "name": "NICOLAS MARCON MARQUES",
@@ -84445,12 +84445,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "45",
                         "bim1": "1",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "6",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -84467,12 +84467,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "45",
                         "bim1": "1",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -84508,8 +84508,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "37",
-                "frequencia": "85%"
+                "total_faltas": "45",
+                "frequencia": "86%"
             },
             {
                 "name": "DANIELA RAMOS MIRANDA",
@@ -84607,12 +84607,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "46",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "12",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -84629,12 +84629,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "46",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -84670,8 +84670,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "63",
-                "frequencia": "74%"
+                "total_faltas": "79",
+                "frequencia": "75%"
             },
             {
                 "name": "ELOISE DE CARVALHO GONCALVES",
@@ -84769,12 +84769,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "47",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "10",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -84791,12 +84791,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "47",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "4",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -84832,8 +84832,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "65",
-                "frequencia": "73%"
+                "total_faltas": "79",
+                "frequencia": "75%"
             },
             {
                 "name": "MATHEUS DOS SANTOS GENIAL LIMA",
@@ -84931,12 +84931,12 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "48",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "2",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -84953,12 +84953,12 @@ const BOLETIM_DATA = [
                         "subject": "ORIENTAÇAO DE ESTUDO - MATEMATICA 55207",
                         "numero": "48",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -84994,8 +84994,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "15",
-                "frequencia": "94%"
+                "total_faltas": "17",
+                "frequencia": "95%"
             },
             {
                 "name": "VINICIUS ALVES ROCHA",
@@ -85097,8 +85097,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -85119,8 +85119,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
@@ -85259,8 +85259,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "ORIENTAÇAO DE ESTUDO - LINGUA PORTUGUESA 55208",
@@ -85281,8 +85281,8 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "-",
-                        "ausencia_compensada": "-"
+                        "faltas": "0",
+                        "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
