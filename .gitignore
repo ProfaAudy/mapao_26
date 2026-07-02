@@ -1,0 +1,8 @@
+# Arquivos temporários do Excel
+~$*.xlsx
+~$*.xls
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
