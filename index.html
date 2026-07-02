@@ -99,7 +99,24 @@
                 return;
             }
 
+            // Função para extrair apenas a turma (ex: "2ª SERIE B MANHA")
+            function getCleanClassName(turma) {
+                const parts = turma.split('-');
+                if (parts.length >= 3) {
+                    return parts[parts.length - 1].replace(/\s+ANUAL$/i, '').trim();
+                }
+                return turma;
+            }
+
             const classes = BOLETIM_DATA;
+
+            // Ordena as turmas em ordem alfabética pelo nome limpo
+            classes.sort((a, b) => {
+                const nameA = getCleanClassName(a.metadata.turma).toUpperCase();
+                const nameB = getCleanClassName(b.metadata.turma).toUpperCase();
+                return nameA.localeCompare(nameB);
+            });
+
             const classSelect = document.getElementById('class-select');
             const studentSelect = document.getElementById('student-select');
 
@@ -107,7 +124,7 @@
             classes.forEach((classData, index) => {
                 const option = document.createElement('option');
                 option.value = index;
-                option.textContent = classData.metadata.turma;
+                option.textContent = getCleanClassName(classData.metadata.turma);
                 classSelect.appendChild(option);
             });
 
@@ -125,7 +142,7 @@
                 const metadata = classes[classIndex].metadata;
                 document.getElementById('school-name').textContent = metadata.escola;
                 document.getElementById('system-info').textContent = `${metadata.tipo_ensino} | Ano Letivo: ${metadata.ano}`;
-                document.getElementById('student-class').textContent = metadata.turma;
+                document.getElementById('student-class').textContent = getCleanClassName(metadata.turma);
                 document.getElementById('closing-type').textContent = metadata.tipo_fechamento;
 
                 // Load first student
