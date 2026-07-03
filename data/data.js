@@ -116883,7 +116883,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "19",
-                "frequencia": "96%",
+                "frequencia": "97%",
                 "freq_bim1": "94%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -116996,22 +116996,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "2",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "2",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -117048,8 +117048,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "96",
-                "frequencia": "82%",
+                "total_faltas": "108",
+                "frequencia": "83%",
                 "freq_bim1": "85%",
                 "freq_bim2": "80%",
                 "freq_bim3": "-",
@@ -117162,18 +117162,18 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "3",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "3",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -117214,10 +117214,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "53",
-                "frequencia": "91%",
+                "total_faltas": "55",
+                "frequencia": "92%",
                 "freq_bim1": "92%",
-                "freq_bim2": "88%",
+                "freq_bim2": "90%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -117328,22 +117328,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "4",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "8",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "4",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -117380,10 +117380,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "53",
+                "total_faltas": "63",
                 "frequencia": "91%",
                 "freq_bim1": "90%",
-                "freq_bim2": "90%",
+                "freq_bim2": "89%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -117494,18 +117494,18 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "5",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "15",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "5",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -117546,10 +117546,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "134",
-                "frequencia": "78%",
+                "total_faltas": "145",
+                "frequencia": "79%",
                 "freq_bim1": "78%",
-                "freq_bim2": "72%",
+                "freq_bim2": "75%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -117660,22 +117660,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "6",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "10",
+                        "faltas": "27",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "6",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "8",
+                        "faltas": "18",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -117712,10 +117712,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "218",
+                "total_faltas": "245",
                 "frequencia": "64%",
                 "freq_bim1": "62%",
-                "freq_bim2": "58%",
+                "freq_bim2": "59%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -117826,22 +117826,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "7",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "4",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "10",
+                        "faltas": "16",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "7",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "10",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -117878,10 +117878,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "134",
+                "total_faltas": "144",
                 "frequencia": "83%",
                 "freq_bim1": "80%",
-                "freq_bim2": "70%",
+                "freq_bim2": "74%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -117996,7 +117996,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "38",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -118007,7 +118007,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "8",
+                        "faltas": "20",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -118044,8 +118044,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "240",
-                "frequencia": "55%",
+                "total_faltas": "284",
+                "frequencia": "53%",
                 "freq_bim1": "71%",
                 "freq_bim2": "37%",
                 "freq_bim3": "-",
@@ -118158,22 +118158,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "9",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "20",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "9",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -118210,10 +118210,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "124",
-                "frequencia": "78%",
+                "total_faltas": "144",
+                "frequencia": "77%",
                 "freq_bim1": "85%",
-                "freq_bim2": "67%",
+                "freq_bim2": "68%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -118377,7 +118377,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "64",
-                "frequencia": "88%",
+                "frequencia": "89%",
                 "freq_bim1": "79%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -118494,7 +118494,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -118505,7 +118505,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "8",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -118542,8 +118542,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "130",
-                "frequencia": "75%",
+                "total_faltas": "140",
+                "frequencia": "77%",
                 "freq_bim1": "68%",
                 "freq_bim2": "86%",
                 "freq_bim3": "-",
@@ -118656,18 +118656,18 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "12",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "8",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "12",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -118708,10 +118708,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "95",
+                "total_faltas": "101",
                 "frequencia": "86%",
                 "freq_bim1": "83%",
-                "freq_bim2": "82%",
+                "freq_bim2": "84%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -118875,7 +118875,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "45",
-                "frequencia": "91%",
+                "frequencia": "92%",
                 "freq_bim1": "86%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -119041,7 +119041,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "139",
-                "frequencia": "74%",
+                "frequencia": "77%",
                 "freq_bim1": "55%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -119207,7 +119207,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "42",
-                "frequencia": "92%",
+                "frequencia": "93%",
                 "freq_bim1": "86%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -119320,22 +119320,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "16",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "8",
+                        "faltas": "21",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "16",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -119372,10 +119372,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "142",
+                "total_faltas": "157",
                 "frequencia": "76%",
                 "freq_bim1": "77%",
-                "freq_bim2": "70%",
+                "freq_bim2": "72%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -119486,22 +119486,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "17",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "17",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -119538,10 +119538,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "72",
-                "frequencia": "100%",
+                "total_faltas": "82",
+                "frequencia": "98%",
                 "freq_bim1": "82%",
-                "freq_bim2": "94%",
+                "freq_bim2": "92%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -119652,11 +119652,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "18",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -119704,7 +119704,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "17",
+                "total_faltas": "19",
                 "frequencia": "97%",
                 "freq_bim1": "97%",
                 "freq_bim2": "97%",
@@ -119818,22 +119818,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "19",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "20",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "19",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -119870,8 +119870,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "180",
-                "frequencia": "72%",
+                "total_faltas": "202",
+                "frequencia": "71%",
                 "freq_bim1": "67%",
                 "freq_bim2": "68%",
                 "freq_bim3": "-",
@@ -120037,7 +120037,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "32",
-                "frequencia": "94%",
+                "frequencia": "95%",
                 "freq_bim1": "90%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -120154,7 +120154,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "18",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -120165,7 +120165,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -120202,10 +120202,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "125",
+                "total_faltas": "143",
                 "frequencia": "76%",
                 "freq_bim1": "80%",
-                "freq_bim2": "73%",
+                "freq_bim2": "74%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -120320,7 +120320,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -120331,7 +120331,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "11",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -120368,10 +120368,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "80",
-                "frequencia": "86%",
+                "total_faltas": "92",
+                "frequencia": "85%",
                 "freq_bim1": "89%",
-                "freq_bim2": "80%",
+                "freq_bim2": "81%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -120482,22 +120482,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "23",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "23",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -120534,10 +120534,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "95",
+                "total_faltas": "105",
                 "frequencia": "85%",
                 "freq_bim1": "88%",
-                "freq_bim2": "76%",
+                "freq_bim2": "78%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -120648,22 +120648,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "24",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "16",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "24",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -120700,10 +120700,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "145",
-                "frequencia": "74%",
+                "total_faltas": "159",
+                "frequencia": "75%",
                 "freq_bim1": "77%",
-                "freq_bim2": "69%",
+                "freq_bim2": "71%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -120814,22 +120814,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "25",
                         "bim1": "2",
-                        "bim2": "-",
+                        "bim2": "4",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "7",
+                        "faltas": "27",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "25",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -120866,10 +120866,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "129",
-                "frequencia": "79%",
+                "total_faltas": "155",
+                "frequencia": "77%",
                 "freq_bim1": "84%",
-                "freq_bim2": "66%",
+                "freq_bim2": "65%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -120980,22 +120980,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "26",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
-                        "ausencia_compensada": "0"
+                        "faltas": "32",
+                        "ausencia_compensada": "32"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "26",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "7",
+                        "faltas": "21",
                         "ausencia_compensada": "7"
                     },
                     {
@@ -121032,8 +121032,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "10"
                     }
                 ],
-                "total_faltas": "310",
-                "frequencia": "102%",
+                "total_faltas": "356",
+                "frequencia": "99%",
                 "freq_bim1": "49%",
                 "freq_bim2": "36%",
                 "freq_bim3": "-",
@@ -121146,22 +121146,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "27",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "27",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -121198,10 +121198,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "40",
+                "total_faltas": "48",
                 "frequencia": "93%",
                 "freq_bim1": "97%",
-                "freq_bim2": "87%",
+                "freq_bim2": "88%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -121312,22 +121312,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "28",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "28",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -121364,7 +121364,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "84",
+                "total_faltas": "94",
                 "frequencia": "86%",
                 "freq_bim1": "86%",
                 "freq_bim2": "83%",
@@ -121478,22 +121478,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "29",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "29",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -121530,10 +121530,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "27",
+                "total_faltas": "31",
                 "frequencia": "95%",
                 "freq_bim1": "100%",
-                "freq_bim2": "89%",
+                "freq_bim2": "90%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -121644,22 +121644,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "30",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "8",
+                        "faltas": "16",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "30",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "10",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -121696,10 +121696,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "159",
-                "frequencia": "72%",
+                "total_faltas": "173",
+                "frequencia": "73%",
                 "freq_bim1": "75%",
-                "freq_bim2": "65%",
+                "freq_bim2": "69%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -121810,22 +121810,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "31",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "31",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -121862,10 +121862,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "67",
-                "frequencia": "96%",
+                "total_faltas": "81",
+                "frequencia": "94%",
                 "freq_bim1": "92%",
-                "freq_bim2": "83%",
+                "freq_bim2": "82%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -121976,22 +121976,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "32",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "32",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -122028,10 +122028,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "92",
-                "frequencia": "93%",
+                "total_faltas": "112",
+                "frequencia": "91%",
                 "freq_bim1": "85%",
-                "freq_bim2": "81%",
+                "freq_bim2": "79%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -122142,7 +122142,7 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "33",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -122153,7 +122153,7 @@ const BOLETIM_DATA = [
                         "subject": "PROGRAMACAO 55204",
                         "numero": "33",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -122195,7 +122195,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "3",
-                "frequencia": "99%",
+                "frequencia": "100%",
                 "freq_bim1": "99%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -122308,22 +122308,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "34",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "34",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -122360,10 +122360,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "50",
+                "total_faltas": "56",
                 "frequencia": "93%",
                 "freq_bim1": "91%",
-                "freq_bim2": "90%",
+                "freq_bim2": "91%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -122640,22 +122640,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "36",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "36",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -122692,8 +122692,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "58",
-                "frequencia": "92%",
+                "total_faltas": "66",
+                "frequencia": "91%",
                 "freq_bim1": "90%",
                 "freq_bim2": "88%",
                 "freq_bim3": "-",
@@ -122972,18 +122972,18 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "38",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "38",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -123024,10 +123024,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "77",
-                "frequencia": "86%",
+                "total_faltas": "79",
+                "frequencia": "87%",
                 "freq_bim1": "84%",
-                "freq_bim2": "88%",
+                "freq_bim2": "90%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -123138,22 +123138,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "39",
                         "bim1": "2",
-                        "bim2": "-",
+                        "bim2": "4",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "39",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -123190,10 +123190,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "101",
+                "total_faltas": "113",
                 "frequencia": "82%",
                 "freq_bim1": "89%",
-                "freq_bim2": "72%",
+                "freq_bim2": "74%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -123304,18 +123304,18 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "40",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "40",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -123356,7 +123356,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "23",
+                "total_faltas": "27",
                 "frequencia": "97%",
                 "freq_bim1": "97%",
                 "freq_bim2": "94%",
@@ -123470,22 +123470,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "41",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "30",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "41",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "21",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -123522,8 +123522,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "207",
-                "frequencia": "63%",
+                "total_faltas": "247",
+                "frequencia": "61%",
                 "freq_bim1": "77%",
                 "freq_bim2": "43%",
                 "freq_bim3": "-",
@@ -123636,22 +123636,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "42",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "14",
+                        "faltas": "40",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "42",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "16",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -123688,10 +123688,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "304",
+                "total_faltas": "340",
                 "frequencia": "47%",
                 "freq_bim1": "47%",
-                "freq_bim2": "41%",
+                "freq_bim2": "43%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -123802,18 +123802,18 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "43",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "4",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "43",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -123854,10 +123854,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "42",
+                "total_faltas": "46",
                 "frequencia": "93%",
                 "freq_bim1": "95%",
-                "freq_bim2": "89%",
+                "freq_bim2": "91%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -124021,7 +124021,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "42",
-                "frequencia": "92%",
+                "frequencia": "93%",
                 "freq_bim1": "86%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -124134,7 +124134,7 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "45",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -124145,7 +124145,7 @@ const BOLETIM_DATA = [
                         "subject": "PROGRAMACAO 55204",
                         "numero": "45",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -124187,9 +124187,9 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "61",
-                "frequencia": "90%",
+                "frequencia": "91%",
                 "freq_bim1": "89%",
-                "freq_bim2": "89%",
+                "freq_bim2": "91%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -124300,22 +124300,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "46",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "8",
+                        "faltas": "18",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "46",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -124352,8 +124352,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "115",
-                "frequencia": "91%",
+                "total_faltas": "127",
+                "frequencia": "90%",
                 "freq_bim1": "78%",
                 "freq_bim2": "81%",
                 "freq_bim3": "-",
@@ -124466,22 +124466,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "47",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "47",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -124518,10 +124518,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "5"
                     }
                 ],
-                "total_faltas": "102",
+                "total_faltas": "114",
                 "frequencia": "83%",
                 "freq_bim1": "85%",
-                "freq_bim2": "77%",
+                "freq_bim2": "79%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -124632,22 +124632,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "48",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "4",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "10",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "48",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -124684,10 +124684,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "111",
-                "frequencia": "80%",
+                "total_faltas": "117",
+                "frequencia": "82%",
                 "freq_bim1": "80%",
-                "freq_bim2": "79%",
+                "freq_bim2": "82%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -124798,22 +124798,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "49",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "15",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "49",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -124850,10 +124850,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "101",
+                "total_faltas": "116",
                 "frequencia": "82%",
                 "freq_bim1": "93%",
-                "freq_bim2": "66%",
+                "freq_bim2": "69%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -124964,22 +124964,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "50",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "50",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -125016,10 +125016,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "28",
-                "frequencia": "96%",
+                "total_faltas": "34",
+                "frequencia": "95%",
                 "freq_bim1": "100%",
-                "freq_bim2": "88%",
+                "freq_bim2": "89%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -125130,22 +125130,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "51",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "51",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -125182,10 +125182,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "7",
+                "total_faltas": "11",
                 "frequencia": "99%",
                 "freq_bim1": "100%",
-                "freq_bim2": "97%",
+                "freq_bim2": "96%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -125296,11 +125296,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "52",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -125311,7 +125311,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -125348,10 +125348,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "71",
-                "frequencia": "80%",
+                "total_faltas": "89",
+                "frequencia": "79%",
                 "freq_bim1": "100%",
-                "freq_bim2": "70%",
+                "freq_bim2": "71%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -125462,22 +125462,22 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "53",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "53",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -125514,10 +125514,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "38",
-                "frequencia": "84%",
+                "total_faltas": "42",
+                "frequencia": "86%",
                 "freq_bim1": "100%",
-                "freq_bim2": "84%",
+                "freq_bim2": "86%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -125632,7 +125632,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -125643,7 +125643,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -125680,8 +125680,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "14",
-                "frequencia": "93%",
+                "total_faltas": "18",
+                "frequencia": "94%",
                 "freq_bim1": "100%",
                 "freq_bim2": "94%",
                 "freq_bim3": "-",
@@ -125794,18 +125794,18 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "55",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "PROGRAMACAO 55204",
                         "numero": "55",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -125846,7 +125846,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "4",
+                "total_faltas": "6",
                 "frequencia": "98%",
                 "freq_bim1": "100%",
                 "freq_bim2": "98%",
@@ -126179,7 +126179,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "1",
-                "frequencia": "99%",
+                "frequencia": "100%",
                 "freq_bim1": "100%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
