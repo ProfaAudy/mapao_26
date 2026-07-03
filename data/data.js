@@ -107981,22 +107981,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "1",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "1",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -108121,8 +108121,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "33",
-                "frequencia": "95%",
+                "total_faltas": "39",
+                "frequencia": "94%",
                 "freq_bim1": "97%",
                 "freq_bim2": "87%",
                 "freq_bim3": "-",
@@ -108136,22 +108136,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "2",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "2",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -108276,10 +108276,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "50",
-                "frequencia": "93%",
+                "total_faltas": "58",
+                "frequencia": "92%",
                 "freq_bim1": "92%",
-                "freq_bim2": "86%",
+                "freq_bim2": "85%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -108291,7 +108291,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "3",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -108302,7 +108302,7 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "3",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -108601,22 +108601,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "5",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
-                        "ausencia_compensada": "0"
+                        "faltas": "10",
+                        "ausencia_compensada": "4"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "5",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "7",
+                        "faltas": "13",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -108741,10 +108741,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "103",
-                "frequencia": "84%",
+                "total_faltas": "117",
+                "frequencia": "83%",
                 "freq_bim1": "79%",
-                "freq_bim2": "78%",
+                "freq_bim2": "76%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -108911,18 +108911,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "7",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "7",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -109051,10 +109051,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "45",
+                "total_faltas": "47",
                 "frequencia": "95%",
                 "freq_bim1": "86%",
-                "freq_bim2": "98%",
+                "freq_bim2": "97%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -109221,7 +109221,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "9",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -109232,11 +109232,11 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "9",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -109361,10 +109361,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "39",
+                "total_faltas": "41",
                 "frequencia": "95%",
                 "freq_bim1": "92%",
-                "freq_bim2": "91%",
+                "freq_bim2": "92%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -109376,22 +109376,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "10",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "10",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -109516,7 +109516,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "63",
+                "total_faltas": "67",
                 "frequencia": "91%",
                 "freq_bim1": "85%",
                 "freq_bim2": "90%",
@@ -109531,7 +109531,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "11",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -109542,7 +109542,7 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "11",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -109672,9 +109672,9 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "19",
-                "frequencia": "96%",
+                "frequencia": "97%",
                 "freq_bim1": "96%",
-                "freq_bim2": "96%",
+                "freq_bim2": "97%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -109686,22 +109686,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "12",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "12",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -109826,7 +109826,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "94",
+                "total_faltas": "100",
                 "frequencia": "84%",
                 "freq_bim1": "77%",
                 "freq_bim2": "86%",
@@ -109982,7 +109982,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "66",
-                "frequencia": "86%",
+                "frequencia": "87%",
                 "freq_bim1": "77%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -109996,7 +109996,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "14",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -110007,7 +110007,7 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "14",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -110139,7 +110139,7 @@ const BOLETIM_DATA = [
                 "total_faltas": "16",
                 "frequencia": "97%",
                 "freq_bim1": "97%",
-                "freq_bim2": "96%",
+                "freq_bim2": "97%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -110151,22 +110151,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "15",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
-                        "ausencia_compensada": "0"
+                        "faltas": "12",
+                        "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "15",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "14",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -110291,10 +110291,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "110",
-                "frequencia": "84%",
+                "total_faltas": "124",
+                "frequencia": "83%",
                 "freq_bim1": "73%",
-                "freq_bim2": "82%",
+                "freq_bim2": "80%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -110306,18 +110306,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "16",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "10",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "16",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -110446,7 +110446,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "20",
+                "total_faltas": "22",
                 "frequencia": "97%",
                 "freq_bim1": "96%",
                 "freq_bim2": "95%",
@@ -110461,18 +110461,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "17",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
-                        "ausencia_compensada": "0"
+                        "faltas": "11",
+                        "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "17",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -110601,10 +110601,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "133",
-                "frequencia": "84%",
+                "total_faltas": "139",
+                "frequencia": "85%",
                 "freq_bim1": "69%",
-                "freq_bim2": "77%",
+                "freq_bim2": "78%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -110757,7 +110757,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "51",
-                "frequencia": "89%",
+                "frequencia": "90%",
                 "freq_bim1": "82%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -110771,22 +110771,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "19",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "19",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -110911,10 +110911,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "15",
+                "total_faltas": "19",
                 "frequencia": "98%",
                 "freq_bim1": "98%",
-                "freq_bim2": "95%",
+                "freq_bim2": "94%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -110926,22 +110926,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "20",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
-                        "ausencia_compensada": "0"
+                        "faltas": "7",
+                        "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "20",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -111066,10 +111066,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "68",
-                "frequencia": "90%",
+                "total_faltas": "78",
+                "frequencia": "89%",
                 "freq_bim1": "89%",
-                "freq_bim2": "81%",
+                "freq_bim2": "80%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -111391,22 +111391,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "23",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
-                        "ausencia_compensada": "0"
+                        "faltas": "10",
+                        "ausencia_compensada": "4"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "23",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -111531,10 +111531,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "112",
+                "total_faltas": "122",
                 "frequencia": "83%",
                 "freq_bim1": "82%",
-                "freq_bim2": "68%",
+                "freq_bim2": "70%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -111546,18 +111546,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "24",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "24",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -111686,7 +111686,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "39",
+                "total_faltas": "41",
                 "frequencia": "95%",
                 "freq_bim1": "91%",
                 "freq_bim2": "93%",
@@ -111701,22 +111701,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "25",
                         "bim1": "9",
-                        "bim2": "-",
+                        "bim2": "10",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "25",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -111841,10 +111841,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "46",
+                "total_faltas": "54",
                 "frequencia": "90%",
                 "freq_bim1": "93%",
-                "freq_bim2": "86%",
+                "freq_bim2": "85%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -112011,22 +112011,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "27",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "27",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -112151,10 +112151,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "17",
-                "frequencia": "98%",
+                "total_faltas": "25",
+                "frequencia": "97%",
                 "freq_bim1": "99%",
-                "freq_bim2": "92%",
+                "freq_bim2": "90%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -112166,22 +112166,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "28",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "10",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "28",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -112306,10 +112306,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "66",
-                "frequencia": "91%",
+                "total_faltas": "76",
+                "frequencia": "90%",
                 "freq_bim1": "84%",
-                "freq_bim2": "89%",
+                "freq_bim2": "87%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -112462,7 +112462,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "32",
-                "frequencia": "93%",
+                "frequencia": "94%",
                 "freq_bim1": "89%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -112631,22 +112631,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "31",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "31",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -112771,10 +112771,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "45",
-                "frequencia": "96%",
+                "total_faltas": "53",
+                "frequencia": "95%",
                 "freq_bim1": "90%",
-                "freq_bim2": "91%",
+                "freq_bim2": "90%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -112941,18 +112941,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "33",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "10",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
-                        "ausencia_compensada": "0"
+                        "faltas": "9",
+                        "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "33",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -113081,7 +113081,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "92",
+                "total_faltas": "98",
                 "frequencia": "89%",
                 "freq_bim1": "77%",
                 "freq_bim2": "87%",
@@ -113096,22 +113096,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "34",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "14",
-                        "ausencia_compensada": "0"
+                        "faltas": "32",
+                        "ausencia_compensada": "18"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "34",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "11",
+                        "faltas": "27",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -113236,10 +113236,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "48"
                     }
                 ],
-                "total_faltas": "214",
-                "frequencia": "88%",
+                "total_faltas": "248",
+                "frequencia": "86%",
                 "freq_bim1": "43%",
-                "freq_bim2": "73%",
+                "freq_bim2": "63%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -113251,7 +113251,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "35",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "10",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -113262,11 +113262,11 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "35",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -113391,10 +113391,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "33",
+                "total_faltas": "35",
                 "frequencia": "95%",
                 "freq_bim1": "94%",
-                "freq_bim2": "91%",
+                "freq_bim2": "92%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -113406,22 +113406,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "36",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "10",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "36",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -113546,7 +113546,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "54",
+                "total_faltas": "60",
                 "frequencia": "92%",
                 "freq_bim1": "90%",
                 "freq_bim2": "86%",
@@ -113561,18 +113561,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "37",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "37",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -113701,8 +113701,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "56",
-                "frequencia": "92%",
+                "total_faltas": "58",
+                "frequencia": "93%",
                 "freq_bim1": "84%",
                 "freq_bim2": "95%",
                 "freq_bim3": "-",
@@ -113716,22 +113716,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "38",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "38",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -113856,10 +113856,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "18",
-                "frequencia": "97%",
+                "total_faltas": "24",
+                "frequencia": "96%",
                 "freq_bim1": "94%",
-                "freq_bim2": "99%",
+                "freq_bim2": "97%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -113875,7 +113875,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -113886,7 +113886,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -114011,10 +114011,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "60",
+                "total_faltas": "70",
                 "frequencia": "88%",
                 "freq_bim1": "89%",
-                "freq_bim2": "86%",
+                "freq_bim2": "84%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -114167,7 +114167,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "49",
-                "frequencia": "90%",
+                "frequencia": "91%",
                 "freq_bim1": "83%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -114181,22 +114181,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "41",
                         "bim1": "9",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
-                        "ausencia_compensada": "0"
+                        "faltas": "8",
+                        "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "41",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -114321,10 +114321,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "78",
+                "total_faltas": "88",
                 "frequencia": "88%",
                 "freq_bim1": "82%",
-                "freq_bim2": "86%",
+                "freq_bim2": "84%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -114336,18 +114336,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "42",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
-                        "ausencia_compensada": "0"
+                        "faltas": "7",
+                        "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "42",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -114476,10 +114476,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "38",
+                "total_faltas": "44",
                 "frequencia": "92%",
                 "freq_bim1": "91%",
-                "freq_bim2": "94%",
+                "freq_bim2": "92%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -114491,22 +114491,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "43",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "43",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -114631,10 +114631,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "57",
-                "frequencia": "94%",
+                "total_faltas": "61",
+                "frequencia": "93%",
                 "freq_bim1": "85%",
-                "freq_bim2": "93%",
+                "freq_bim2": "92%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -114646,22 +114646,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "44",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
-                        "ausencia_compensada": "0"
+                        "faltas": "12",
+                        "ausencia_compensada": "4"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "44",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -114786,10 +114786,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "79",
-                "frequencia": "88%",
+                "total_faltas": "91",
+                "frequencia": "87%",
                 "freq_bim1": "82%",
-                "freq_bim2": "86%",
+                "freq_bim2": "83%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -114801,22 +114801,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "45",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
-                        "ausencia_compensada": "0"
+                        "faltas": "7",
+                        "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "45",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -114941,10 +114941,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "83",
-                "frequencia": "91%",
+                "total_faltas": "91",
+                "frequencia": "90%",
                 "freq_bim1": "82%",
-                "freq_bim2": "84%",
+                "freq_bim2": "83%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -114956,18 +114956,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "46",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "10",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "46",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -115096,7 +115096,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "31",
+                "total_faltas": "33",
                 "frequencia": "97%",
                 "freq_bim1": "92%",
                 "freq_bim2": "96%",
@@ -115111,22 +115111,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "47",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
-                        "ausencia_compensada": "0"
+                        "faltas": "8",
+                        "ausencia_compensada": "4"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "47",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -115251,10 +115251,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "27",
+                "total_faltas": "37",
                 "frequencia": "94%",
                 "freq_bim1": "94%",
-                "freq_bim2": "95%",
+                "freq_bim2": "91%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -115266,18 +115266,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "48",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "48",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -115406,10 +115406,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "5",
+                "total_faltas": "7",
                 "frequencia": "99%",
                 "freq_bim1": "100%",
-                "freq_bim2": "98%",
+                "freq_bim2": "97%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -115421,7 +115421,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "49",
                         "bim1": "9",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -115432,11 +115432,11 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "49",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -115561,10 +115561,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "2",
-                "frequencia": "100%",
+                "total_faltas": "4",
+                "frequencia": "99%",
                 "freq_bim1": "99%",
-                "freq_bim2": "100%",
+                "freq_bim2": "99%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -115580,7 +115580,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -115591,7 +115591,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -115716,10 +115716,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "84",
+                "total_faltas": "92",
                 "frequencia": "82%",
                 "freq_bim1": "79%",
-                "freq_bim2": "87%",
+                "freq_bim2": "86%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -115735,7 +115735,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -115746,7 +115746,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -115871,8 +115871,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "77",
-                "frequencia": "84%",
+                "total_faltas": "89",
+                "frequencia": "83%",
                 "freq_bim1": "92%",
                 "freq_bim2": "71%",
                 "freq_bim3": "-",
@@ -115890,7 +115890,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -115901,7 +115901,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -116026,8 +116026,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "34",
-                "frequencia": "93%",
+                "total_faltas": "40",
+                "frequencia": "92%",
                 "freq_bim1": "98%",
                 "freq_bim2": "85%",
                 "freq_bim3": "-",
@@ -116041,22 +116041,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "53",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "53",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -116181,10 +116181,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "14",
-                "frequencia": "93%",
+                "total_faltas": "20",
+                "frequencia": "91%",
                 "freq_bim1": "100%",
-                "freq_bim2": "93%",
+                "freq_bim2": "91%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -116196,22 +116196,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "54",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "54",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -116336,10 +116336,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "46",
-                "frequencia": "76%",
+                "total_faltas": "58",
+                "frequencia": "75%",
                 "freq_bim1": "100%",
-                "freq_bim2": "76%",
+                "freq_bim2": "75%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -116351,7 +116351,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "55",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -116362,7 +116362,7 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "55",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -116492,9 +116492,9 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "18",
-                "frequencia": "90%",
+                "frequencia": "92%",
                 "freq_bim1": "100%",
-                "freq_bim2": "90%",
+                "freq_bim2": "92%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -116510,7 +116510,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -116646,7 +116646,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "6",
+                "total_faltas": "8",
                 "frequencia": "97%",
                 "freq_bim1": "100%",
                 "freq_bim2": "97%",
