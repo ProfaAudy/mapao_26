@@ -98150,7 +98150,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "1",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -98161,11 +98161,11 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "1",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -98183,7 +98183,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "1",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -98290,10 +98290,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "106",
+                "total_faltas": "116",
                 "frequencia": "79%",
                 "freq_bim1": "76%",
-                "freq_bim2": "80%",
+                "freq_bim2": "81%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -98305,22 +98305,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "2",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "2",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -98338,11 +98338,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "2",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -98445,7 +98445,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "64",
+                "total_faltas": "72",
                 "frequencia": "87%",
                 "freq_bim1": "85%",
                 "freq_bim2": "89%",
@@ -98601,7 +98601,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "71",
-                "frequencia": "83%",
+                "frequencia": "86%",
                 "freq_bim1": "73%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -98615,7 +98615,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "4",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -98626,7 +98626,7 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "4",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -98648,7 +98648,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "4",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -98756,7 +98756,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "57",
-                "frequencia": "89%",
+                "frequencia": "90%",
                 "freq_bim1": "80%",
                 "freq_bim2": "98%",
                 "freq_bim3": "-",
@@ -99066,7 +99066,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "82",
-                "frequencia": "80%",
+                "frequencia": "84%",
                 "freq_bim1": "69%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -99080,7 +99080,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "7",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -99091,7 +99091,7 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "7",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -99113,7 +99113,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "7",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -99221,9 +99221,9 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "36",
-                "frequencia": "93%",
+                "frequencia": "94%",
                 "freq_bim1": "92%",
-                "freq_bim2": "94%",
+                "freq_bim2": "95%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -99394,7 +99394,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -99405,7 +99405,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "10",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -99427,7 +99427,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -99530,10 +99530,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "88",
-                "frequencia": "79%",
+                "total_faltas": "102",
+                "frequencia": "80%",
                 "freq_bim1": "82%",
-                "freq_bim2": "82%",
+                "freq_bim2": "81%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -99545,23 +99545,23 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "10",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "7",
+                        "faltas": "11",
                         "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "10",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
-                        "ausencia_compensada": "0"
+                        "faltas": "14",
+                        "ausencia_compensada": "5"
                     },
                     {
                         "subject": "EDUCAÇAO FINANCEIRA 52000",
@@ -99578,11 +99578,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "10",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -99685,10 +99685,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "188",
-                "frequencia": "62%",
+                "total_faltas": "208",
+                "frequencia": "64%",
                 "freq_bim1": "62%",
-                "freq_bim2": "60%",
+                "freq_bim2": "62%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -99841,7 +99841,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "12",
-                "frequencia": "97%",
+                "frequencia": "98%",
                 "freq_bim1": "95%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -99855,18 +99855,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "12",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "12",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -99888,7 +99888,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "12",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -99995,7 +99995,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "36",
+                "total_faltas": "38",
                 "frequencia": "93%",
                 "freq_bim1": "89%",
                 "freq_bim2": "97%",
@@ -100010,22 +100010,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "13",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
-                        "ausencia_compensada": "0"
+                        "faltas": "7",
+                        "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "13",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -100043,11 +100043,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "13",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -100150,10 +100150,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "100",
-                "frequencia": "79%",
+                "total_faltas": "110",
+                "frequencia": "81%",
                 "freq_bim1": "83%",
-                "freq_bim2": "75%",
+                "freq_bim2": "77%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -100461,7 +100461,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "51",
-                "frequencia": "88%",
+                "frequencia": "90%",
                 "freq_bim1": "81%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -100475,22 +100475,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "16",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "16",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -100508,7 +100508,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "16",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -100615,8 +100615,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "58",
-                "frequencia": "88%",
+                "total_faltas": "62",
+                "frequencia": "89%",
                 "freq_bim1": "83%",
                 "freq_bim2": "94%",
                 "freq_bim3": "-",
@@ -100630,22 +100630,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "17",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
-                        "ausencia_compensada": "0"
+                        "faltas": "8",
+                        "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "17",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -100663,11 +100663,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "17",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -100770,10 +100770,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "118",
-                "frequencia": "76%",
+                "total_faltas": "130",
+                "frequencia": "77%",
                 "freq_bim1": "79%",
-                "freq_bim2": "72%",
+                "freq_bim2": "74%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -100926,7 +100926,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "47",
-                "frequencia": "89%",
+                "frequencia": "91%",
                 "freq_bim1": "82%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -101095,18 +101095,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "20",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "20",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -101128,7 +101128,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "20",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -101235,10 +101235,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "70",
-                "frequencia": "86%",
+                "total_faltas": "72",
+                "frequencia": "87%",
                 "freq_bim1": "85%",
-                "freq_bim2": "86%",
+                "freq_bim2": "88%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -101250,22 +101250,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "21",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "9",
-                        "ausencia_compensada": "5"
+                        "faltas": "23",
+                        "ausencia_compensada": "10"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "21",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "15",
                         "ausencia_compensada": "5"
                     },
                     {
@@ -101283,11 +101283,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "21",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -101343,7 +101343,7 @@ const BOLETIM_DATA = [
                         "bim4": "-",
                         "final": "-",
                         "faltas": "14",
-                        "ausencia_compensada": "10"
+                        "ausencia_compensada": "20"
                     },
                     {
                         "subject": "LINGUA PORTUGUESA 1100",
@@ -101390,10 +101390,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "208",
+                "total_faltas": "236",
                 "frequencia": "81%",
                 "freq_bim1": "53%",
-                "freq_bim2": "62%",
+                "freq_bim2": "60%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -101409,7 +101409,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -101420,7 +101420,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -101545,10 +101545,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "117",
-                "frequencia": "73%",
+                "total_faltas": "127",
+                "frequencia": "76%",
                 "freq_bim1": "73%",
-                "freq_bim2": "79%",
+                "freq_bim2": "80%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -101701,7 +101701,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "11",
-                "frequencia": "97%",
+                "frequencia": "98%",
                 "freq_bim1": "96%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -101715,22 +101715,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "24",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "24",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -101748,7 +101748,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "24",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -101855,7 +101855,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "30",
+                "total_faltas": "34",
                 "frequencia": "94%",
                 "freq_bim1": "94%",
                 "freq_bim2": "94%",
@@ -101870,22 +101870,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "25",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "25",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -101903,11 +101903,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "25",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -102010,10 +102010,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "158",
-                "frequencia": "68%",
+                "total_faltas": "170",
+                "frequencia": "69%",
                 "freq_bim1": "70%",
-                "freq_bim2": "64%",
+                "freq_bim2": "67%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -102025,7 +102025,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "26",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -102036,7 +102036,7 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "26",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -102058,11 +102058,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "26",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -102165,10 +102165,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "3",
+                "total_faltas": "5",
                 "frequencia": "99%",
                 "freq_bim1": "99%",
-                "freq_bim2": "100%",
+                "freq_bim2": "99%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -102180,18 +102180,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "27",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
-                        "ausencia_compensada": "0"
+                        "faltas": "10",
+                        "ausencia_compensada": "4"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "27",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -102213,11 +102213,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "27",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -102320,10 +102320,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "126",
-                "frequencia": "74%",
+                "total_faltas": "140",
+                "frequencia": "75%",
                 "freq_bim1": "76%",
-                "freq_bim2": "72%",
+                "freq_bim2": "73%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -102335,22 +102335,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "28",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "28",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -102368,11 +102368,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "28",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -102475,7 +102475,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "64",
+                "total_faltas": "72",
                 "frequencia": "87%",
                 "freq_bim1": "89%",
                 "freq_bim2": "85%",
@@ -102490,7 +102490,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "29",
                         "bim1": "2",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -102501,11 +102501,11 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "29",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -102523,7 +102523,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "29",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -102630,10 +102630,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "125",
-                "frequencia": "74%",
+                "total_faltas": "127",
+                "frequencia": "77%",
                 "freq_bim1": "71%",
-                "freq_bim2": "78%",
+                "freq_bim2": "82%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -102786,7 +102786,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "97",
-                "frequencia": "77%",
+                "frequencia": "81%",
                 "freq_bim1": "63%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -102800,22 +102800,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "31",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "31",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -102833,11 +102833,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "31",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -102940,10 +102940,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "125",
+                "total_faltas": "140",
                 "frequencia": "74%",
                 "freq_bim1": "73%",
-                "freq_bim2": "75%",
+                "freq_bim2": "76%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -102955,22 +102955,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "32",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "32",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -102988,7 +102988,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "32",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -103095,10 +103095,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "97",
-                "frequencia": "80%",
+                "total_faltas": "101",
+                "frequencia": "82%",
                 "freq_bim1": "79%",
-                "freq_bim2": "81%",
+                "freq_bim2": "84%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -103110,22 +103110,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "33",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "33",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -103143,7 +103143,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "33",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -103250,8 +103250,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "111",
-                "frequencia": "78%",
+                "total_faltas": "117",
+                "frequencia": "79%",
                 "freq_bim1": "65%",
                 "freq_bim2": "91%",
                 "freq_bim3": "-",
@@ -103265,7 +103265,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "34",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -103276,11 +103276,11 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "34",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "3",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -103298,7 +103298,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "34",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -103405,10 +103405,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "22",
-                "frequencia": "95%",
+                "total_faltas": "24",
+                "frequencia": "96%",
                 "freq_bim1": "97%",
-                "freq_bim2": "94%",
+                "freq_bim2": "95%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -103420,22 +103420,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "35",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "35",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -103453,11 +103453,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "35",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -103560,10 +103560,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "104",
+                "total_faltas": "114",
                 "frequencia": "79%",
                 "freq_bim1": "75%",
-                "freq_bim2": "82%",
+                "freq_bim2": "83%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -103579,7 +103579,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "7",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -103590,7 +103590,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "9",
+                        "faltas": "11",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -103612,7 +103612,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -103715,10 +103715,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "161",
-                "frequencia": "61%",
+                "total_faltas": "167",
+                "frequencia": "67%",
                 "freq_bim1": "45%",
-                "freq_bim2": "92%",
+                "freq_bim2": "91%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -103730,22 +103730,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "37",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
-                        "ausencia_compensada": "0"
+                        "faltas": "9",
+                        "ausencia_compensada": "3"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "37",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -103763,7 +103763,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "37",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -103870,10 +103870,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "142",
-                "frequencia": "71%",
+                "total_faltas": "150",
+                "frequencia": "73%",
                 "freq_bim1": "63%",
-                "freq_bim2": "79%",
+                "freq_bim2": "81%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -103885,18 +103885,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "38",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "38",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -103918,7 +103918,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "38",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -104025,8 +104025,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "97",
-                "frequencia": "80%",
+                "total_faltas": "101",
+                "frequencia": "82%",
                 "freq_bim1": "72%",
                 "freq_bim2": "90%",
                 "freq_bim3": "-",
@@ -104040,7 +104040,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "39",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -104051,11 +104051,11 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "39",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -104073,11 +104073,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "39",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -104180,10 +104180,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "61",
+                "total_faltas": "65",
                 "frequencia": "88%",
                 "freq_bim1": "83%",
-                "freq_bim2": "92%",
+                "freq_bim2": "93%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -104336,7 +104336,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "115",
-                "frequencia": "72%",
+                "frequencia": "77%",
                 "freq_bim1": "56%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -104491,7 +104491,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "30",
-                "frequencia": "93%",
+                "frequencia": "94%",
                 "freq_bim1": "89%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -104505,23 +104505,23 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "42",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "9",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "9",
+                        "faltas": "11",
                         "ausencia_compensada": "5"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "42",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "11",
-                        "ausencia_compensada": "0"
+                        "faltas": "15",
+                        "ausencia_compensada": "5"
                     },
                     {
                         "subject": "EDUCAÇAO FINANCEIRA 52000",
@@ -104538,7 +104538,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "42",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -104645,8 +104645,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "170",
-                "frequencia": "70%",
+                "total_faltas": "176",
+                "frequencia": "73%",
                 "freq_bim1": "45%",
                 "freq_bim2": "88%",
                 "freq_bim3": "-",
@@ -104660,22 +104660,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "43",
                         "bim1": "10",
-                        "bim2": "-",
+                        "bim2": "10",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "43",
                         "bim1": "8",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -104693,11 +104693,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "43",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -104753,7 +104753,7 @@ const BOLETIM_DATA = [
                         "bim4": "-",
                         "final": "-",
                         "faltas": "3",
-                        "ausencia_compensada": "1"
+                        "ausencia_compensada": "4"
                     },
                     {
                         "subject": "LINGUA PORTUGUESA 1100",
@@ -104800,10 +104800,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "49",
+                "total_faltas": "61",
                 "frequencia": "90%",
                 "freq_bim1": "91%",
-                "freq_bim2": "89%",
+                "freq_bim2": "87%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -104970,22 +104970,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "45",
                         "bim1": "2",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "45",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -105003,11 +105003,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "45",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -105110,10 +105110,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "96",
-                "frequencia": "80%",
+                "total_faltas": "106",
+                "frequencia": "81%",
                 "freq_bim1": "76%",
-                "freq_bim2": "85%",
+                "freq_bim2": "84%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -105266,7 +105266,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "25",
-                "frequencia": "94%",
+                "frequencia": "95%",
                 "freq_bim1": "90%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -105421,7 +105421,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "87",
-                "frequencia": "79%",
+                "frequencia": "83%",
                 "freq_bim1": "67%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -105435,18 +105435,18 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "48",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "48",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -105468,7 +105468,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "48",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -105575,10 +105575,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "39",
+                "total_faltas": "43",
                 "frequencia": "92%",
                 "freq_bim1": "90%",
-                "freq_bim2": "95%",
+                "freq_bim2": "94%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -105731,7 +105731,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "85",
-                "frequencia": "80%",
+                "frequencia": "83%",
                 "freq_bim1": "68%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -105756,7 +105756,7 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "50",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "1",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -105886,7 +105886,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "12",
-                "frequencia": "97%",
+                "frequencia": "98%",
                 "freq_bim1": "95%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -105915,7 +105915,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -105937,7 +105937,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106040,8 +106040,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "53",
-                "frequencia": "87%",
+                "total_faltas": "59",
+                "frequencia": "88%",
                 "freq_bim1": "87%",
                 "freq_bim2": "91%",
                 "freq_bim3": "-",
@@ -106055,22 +106055,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "52",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "4",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "52",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106088,7 +106088,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "52",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -106195,7 +106195,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "28",
+                "total_faltas": "34",
                 "frequencia": "94%",
                 "freq_bim1": "99%",
                 "freq_bim2": "89%",
@@ -106210,22 +106210,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "53",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "53",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106243,11 +106243,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "53",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106350,10 +106350,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "22",
-                "frequencia": "95%",
+                "total_faltas": "30",
+                "frequencia": "94%",
                 "freq_bim1": "100%",
-                "freq_bim2": "90%",
+                "freq_bim2": "89%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -106369,7 +106369,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106380,7 +106380,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106402,7 +106402,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106505,10 +106505,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "52",
-                "frequencia": "88%",
+                "total_faltas": "70",
+                "frequencia": "86%",
                 "freq_bim1": "100%",
-                "freq_bim2": "76%",
+                "freq_bim2": "75%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -106520,22 +106520,22 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "55",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "55",
                         "bim1": "1",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106553,11 +106553,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "55",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106660,10 +106660,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "67",
-                "frequencia": "84%",
+                "total_faltas": "83",
+                "frequencia": "82%",
                 "freq_bim1": "100%",
-                "freq_bim2": "70%",
+                "freq_bim2": "71%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -106834,18 +106834,18 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "57",
                         "bim1": "1",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106863,11 +106863,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "57",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -106970,10 +106970,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "100",
-                "frequencia": "76%",
+                "total_faltas": "124",
+                "frequencia": "74%",
                 "freq_bim1": "100%",
-                "freq_bim2": "55%",
+                "freq_bim2": "56%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -106989,18 +106989,18 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "58",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107022,7 +107022,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107125,10 +107125,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "47",
-                "frequencia": "79%",
+                "total_faltas": "57",
+                "frequencia": "80%",
                 "freq_bim1": "100%",
-                "freq_bim2": "79%",
+                "freq_bim2": "80%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -107144,18 +107144,18 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "59",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107177,7 +107177,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107280,10 +107280,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "61",
-                "frequencia": "72%",
+                "total_faltas": "77",
+                "frequencia": "73%",
                 "freq_bim1": "100%",
-                "freq_bim2": "72%",
+                "freq_bim2": "73%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -107299,7 +107299,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107310,7 +107310,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107332,7 +107332,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107435,10 +107435,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "59",
-                "frequencia": "62%",
+                "total_faltas": "79",
+                "frequencia": "67%",
                 "freq_bim1": "100%",
-                "freq_bim2": "73%",
+                "freq_bim2": "72%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -107450,7 +107450,7 @@ const BOLETIM_DATA = [
                         "subject": "ARTE 1813",
                         "numero": "61",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -107461,11 +107461,11 @@ const BOLETIM_DATA = [
                         "subject": "BIOLOGIA 2400",
                         "numero": "61",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107483,11 +107483,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "61",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107590,16 +107590,16 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "30",
-                "frequencia": "89%",
+                "total_faltas": "34",
+                "frequencia": "90%",
                 "freq_bim1": "100%",
-                "freq_bim2": "86%",
+                "freq_bim2": "88%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
             {
                 "name": "BERNARDO CASTRO",
-                "situacao": "Ativo",
+                "situacao": "Não Comparecimento",
                 "grades": [
                     {
                         "subject": "ARTE 1813",
@@ -107609,18 +107609,18 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "62",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "1",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107642,7 +107642,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107745,10 +107745,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "68",
-                "frequencia": "69%",
+                "total_faltas": "90",
+                "frequencia": "68%",
                 "freq_bim1": "100%",
-                "freq_bim2": "69%",
+                "freq_bim2": "68%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -107764,18 +107764,18 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
                         "subject": "BIOLOGIA 2400",
                         "numero": "63",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "1",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107793,11 +107793,11 @@ const BOLETIM_DATA = [
                         "subject": "EDUCACAO FISICA 1900",
                         "numero": "63",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -107900,10 +107900,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "44",
-                "frequencia": "80%",
+                "total_faltas": "54",
+                "frequencia": "81%",
                 "freq_bim1": "100%",
-                "freq_bim2": "80%",
+                "freq_bim2": "81%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             }
