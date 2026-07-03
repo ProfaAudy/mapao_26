@@ -126362,7 +126362,7 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "1",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -126415,9 +126415,9 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "51",
-                "frequencia": "91%",
+                "frequencia": "92%",
                 "freq_bim1": "91%",
-                "freq_bim2": "91%",
+                "freq_bim2": "92%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -126528,11 +126528,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "2",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -126580,10 +126580,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "115",
-                "frequencia": "80%",
+                "total_faltas": "121",
+                "frequencia": "81%",
                 "freq_bim1": "88%",
-                "freq_bim2": "71%",
+                "freq_bim2": "74%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -126694,11 +126694,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "3",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -126746,8 +126746,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "76",
-                "frequencia": "89%",
+                "total_faltas": "83",
+                "frequencia": "88%",
                 "freq_bim1": "89%",
                 "freq_bim2": "84%",
                 "freq_bim3": "-",
@@ -126860,11 +126860,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "4",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "12",
+                        "faltas": "23",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -126912,10 +126912,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "138",
+                "total_faltas": "149",
                 "frequencia": "78%",
                 "freq_bim1": "77%",
-                "freq_bim2": "75%",
+                "freq_bim2": "76%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -127026,11 +127026,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "5",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "12",
+                        "faltas": "21",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -127078,10 +127078,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "138",
-                "frequencia": "76%",
+                "total_faltas": "147",
+                "frequencia": "77%",
                 "freq_bim1": "77%",
-                "freq_bim2": "75%",
+                "freq_bim2": "76%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -127120,7 +127120,7 @@ const BOLETIM_DATA = [
                         "bim4": "-",
                         "final": "-",
                         "faltas": "2",
-                        "ausencia_compensada": "0"
+                        "ausencia_compensada": "2"
                     },
                     {
                         "subject": "EDUCACAO FISICA 1900",
@@ -127192,11 +127192,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "6",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "16",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -127244,10 +127244,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "2"
                     }
                 ],
-                "total_faltas": "63",
-                "frequencia": "98%",
+                "total_faltas": "73",
+                "frequencia": "96%",
                 "freq_bim1": "91%",
-                "freq_bim2": "87%",
+                "freq_bim2": "86%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -127286,7 +127286,7 @@ const BOLETIM_DATA = [
                         "bim4": "-",
                         "final": "-",
                         "faltas": "24",
-                        "ausencia_compensada": "6"
+                        "ausencia_compensada": "18"
                     },
                     {
                         "subject": "EDUCACAO FISICA 1900",
@@ -127358,11 +127358,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "7",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "28",
+                        "faltas": "42",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -127385,7 +127385,7 @@ const BOLETIM_DATA = [
                         "bim4": "-",
                         "final": "-",
                         "faltas": "32",
-                        "ausencia_compensada": "0"
+                        "ausencia_compensada": "32"
                     },
                     {
                         "subject": "REDAÇAO E LEITURA 52001",
@@ -127410,10 +127410,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "5"
                     }
                 ],
-                "total_faltas": "346",
-                "frequencia": "81%",
+                "total_faltas": "360",
+                "frequencia": "87%",
                 "freq_bim1": "22%",
-                "freq_bim2": "61%",
+                "freq_bim2": "63%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -127524,11 +127524,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "8",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -127576,10 +127576,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "40",
+                "total_faltas": "42",
                 "frequencia": "94%",
                 "freq_bim1": "96%",
-                "freq_bim2": "90%",
+                "freq_bim2": "91%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -127690,11 +127690,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "9",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -127742,10 +127742,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "95",
+                "total_faltas": "99",
                 "frequencia": "84%",
                 "freq_bim1": "86%",
-                "freq_bim2": "80%",
+                "freq_bim2": "82%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -127856,7 +127856,7 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "10",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -127911,7 +127911,7 @@ const BOLETIM_DATA = [
                 "total_faltas": "24",
                 "frequencia": "97%",
                 "freq_bim1": "96%",
-                "freq_bim2": "95%",
+                "freq_bim2": "96%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -128022,11 +128022,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "11",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -128074,10 +128074,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "30",
+                "total_faltas": "32",
                 "frequencia": "95%",
                 "freq_bim1": "96%",
-                "freq_bim2": "93%",
+                "freq_bim2": "94%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -128188,11 +128188,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "12",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "8",
+                        "faltas": "19",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -128240,7 +128240,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "127",
+                "total_faltas": "138",
                 "frequencia": "81%",
                 "freq_bim1": "77%",
                 "freq_bim2": "79%",
@@ -128354,11 +128354,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "13",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -128406,7 +128406,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "18",
+                "total_faltas": "20",
                 "frequencia": "97%",
                 "freq_bim1": "97%",
                 "freq_bim2": "96%",
@@ -128573,7 +128573,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "39",
-                "frequencia": "93%",
+                "frequencia": "94%",
                 "freq_bim1": "88%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -128686,11 +128686,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "15",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "10",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -128738,10 +128738,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "144",
-                "frequencia": "77%",
+                "total_faltas": "150",
+                "frequencia": "78%",
                 "freq_bim1": "77%",
-                "freq_bim2": "73%",
+                "freq_bim2": "75%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -129022,7 +129022,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "11",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -129070,7 +129070,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "50",
+                "total_faltas": "56",
                 "frequencia": "91%",
                 "freq_bim1": "91%",
                 "freq_bim2": "91%",
@@ -129184,11 +129184,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "18",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -129236,8 +129236,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "50",
-                "frequencia": "91%",
+                "total_faltas": "52",
+                "frequencia": "92%",
                 "freq_bim1": "90%",
                 "freq_bim2": "93%",
                 "freq_bim3": "-",
@@ -129350,11 +129350,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "19",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "8",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "7",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -129402,10 +129402,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "68",
+                "total_faltas": "71",
                 "frequencia": "89%",
                 "freq_bim1": "88%",
-                "freq_bim2": "88%",
+                "freq_bim2": "89%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -129516,11 +129516,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "20",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "11",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -129538,7 +129538,7 @@ const BOLETIM_DATA = [
                         "subject": "QUIMICA 2800",
                         "numero": "20",
                         "bim1": "5",
-                        "bim2": "2",
+                        "bim2": "4",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -129568,10 +129568,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "94",
+                "total_faltas": "102",
                 "frequencia": "86%",
                 "freq_bim1": "88%",
-                "freq_bim2": "78%",
+                "freq_bim2": "79%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -129682,11 +129682,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "21",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -129734,10 +129734,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "94",
+                "total_faltas": "104",
                 "frequencia": "85%",
                 "freq_bim1": "85%",
-                "freq_bim2": "83%",
+                "freq_bim2": "82%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -129776,7 +129776,7 @@ const BOLETIM_DATA = [
                         "bim4": "-",
                         "final": "-",
                         "faltas": "16",
-                        "ausencia_compensada": "0"
+                        "ausencia_compensada": "4"
                     },
                     {
                         "subject": "EDUCACAO FISICA 1900",
@@ -129848,11 +129848,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "22",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -129900,10 +129900,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "97",
-                "frequencia": "84%",
+                "total_faltas": "104",
+                "frequencia": "85%",
                 "freq_bim1": "86%",
-                "freq_bim2": "80%",
+                "freq_bim2": "81%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -130014,7 +130014,7 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "23",
                         "bim1": "7",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -130180,11 +130180,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "24",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "7",
+                        "faltas": "17",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -130232,7 +130232,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "104",
+                "total_faltas": "114",
                 "frequencia": "82%",
                 "freq_bim1": "85%",
                 "freq_bim2": "78%",
@@ -130346,11 +130346,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "25",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "5",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -130398,10 +130398,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "78",
-                "frequencia": "87%",
+                "total_faltas": "79",
+                "frequencia": "88%",
                 "freq_bim1": "86%",
-                "freq_bim2": "87%",
+                "freq_bim2": "89%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -130435,7 +130435,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCAÇAO FINANCEIRA 52000",
                         "numero": "26",
                         "bim1": "1",
-                        "bim2": "1",
+                        "bim2": "3",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -130512,11 +130512,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "26",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "12",
+                        "faltas": "24",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -130564,10 +130564,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "143",
+                "total_faltas": "155",
                 "frequencia": "76%",
                 "freq_bim1": "69%",
-                "freq_bim2": "83%",
+                "freq_bim2": "81%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -130678,11 +130678,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "27",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "3",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -130730,10 +130730,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "49",
+                "total_faltas": "52",
                 "frequencia": "92%",
                 "freq_bim1": "91%",
-                "freq_bim2": "92%",
+                "freq_bim2": "93%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -130844,11 +130844,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "28",
                         "bim1": "3",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "13",
+                        "faltas": "29",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -130896,10 +130896,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "239",
+                "total_faltas": "255",
                 "frequencia": "61%",
                 "freq_bim1": "63%",
-                "freq_bim2": "53%",
+                "freq_bim2": "55%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -131010,11 +131010,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "29",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -131062,10 +131062,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "115",
-                "frequencia": "82%",
+                "total_faltas": "121",
+                "frequencia": "83%",
                 "freq_bim1": "85%",
-                "freq_bim2": "74%",
+                "freq_bim2": "76%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -131180,7 +131180,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "20",
+                        "faltas": "34",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -131228,8 +131228,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "273",
-                "frequencia": "53%",
+                "total_faltas": "287",
+                "frequencia": "54%",
                 "freq_bim1": "38%",
                 "freq_bim2": "70%",
                 "freq_bim3": "-",
@@ -131342,11 +131342,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "31",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "1",
+                        "faltas": "9",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -131394,8 +131394,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "45",
-                "frequencia": "93%",
+                "total_faltas": "53",
+                "frequencia": "92%",
                 "freq_bim1": "97%",
                 "freq_bim2": "86%",
                 "freq_bim3": "-",
@@ -131508,11 +131508,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "32",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "2",
+                        "faltas": "4",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -131560,10 +131560,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "1"
                     }
                 ],
-                "total_faltas": "11",
+                "total_faltas": "13",
                 "frequencia": "99%",
                 "freq_bim1": "97%",
-                "freq_bim2": "99%",
+                "freq_bim2": "98%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -131678,7 +131678,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "21",
+                        "faltas": "41",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -131726,7 +131726,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "267",
+                "total_faltas": "287",
                 "frequencia": "52%",
                 "freq_bim1": "46%",
                 "freq_bim2": "63%",
@@ -131840,11 +131840,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "34",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "8",
+                        "faltas": "10",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -131892,10 +131892,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "80",
-                "frequencia": "87%",
+                "total_faltas": "82",
+                "frequencia": "88%",
                 "freq_bim1": "78%",
-                "freq_bim2": "95%",
+                "freq_bim2": "96%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -132010,7 +132010,7 @@ const BOLETIM_DATA = [
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "25",
+                        "faltas": "42",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -132058,10 +132058,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "329",
-                "frequencia": "41%",
+                "total_faltas": "346",
+                "frequencia": "43%",
                 "freq_bim1": "29%",
-                "freq_bim2": "59%",
+                "freq_bim2": "60%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -132172,11 +132172,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "36",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "6",
+                        "faltas": "11",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -132224,10 +132224,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "122",
-                "frequencia": "79%",
+                "total_faltas": "127",
+                "frequencia": "80%",
                 "freq_bim1": "85%",
-                "freq_bim2": "71%",
+                "freq_bim2": "74%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -132266,7 +132266,7 @@ const BOLETIM_DATA = [
                         "bim4": "-",
                         "final": "-",
                         "faltas": "10",
-                        "ausencia_compensada": "0"
+                        "ausencia_compensada": "10"
                     },
                     {
                         "subject": "EDUCACAO FISICA 1900",
@@ -132338,11 +132338,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "37",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "15",
+                        "faltas": "19",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -132365,7 +132365,7 @@ const BOLETIM_DATA = [
                         "bim4": "-",
                         "final": "-",
                         "faltas": "4",
-                        "ausencia_compensada": "0"
+                        "ausencia_compensada": "4"
                     },
                     {
                         "subject": "REDAÇAO E LEITURA 52001",
@@ -132390,8 +132390,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "101",
-                "frequencia": "95%",
+                "total_faltas": "105",
+                "frequencia": "97%",
                 "freq_bim1": "77%",
                 "freq_bim2": "89%",
                 "freq_bim3": "-",
@@ -132427,7 +132427,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCAÇAO FINANCEIRA 52000",
                         "numero": "38",
                         "bim1": "2",
-                        "bim2": "5",
+                        "bim2": "4",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -132504,11 +132504,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "38",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "9",
+                        "faltas": "23",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -132556,10 +132556,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "200",
-                "frequencia": "68%",
+                "total_faltas": "214",
+                "frequencia": "69%",
                 "freq_bim1": "73%",
-                "freq_bim2": "56%",
+                "freq_bim2": "59%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -132598,7 +132598,7 @@ const BOLETIM_DATA = [
                         "bim4": "-",
                         "final": "-",
                         "faltas": "10",
-                        "ausencia_compensada": "0"
+                        "ausencia_compensada": "5"
                     },
                     {
                         "subject": "EDUCACAO FISICA 1900",
@@ -132670,11 +132670,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "39",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "4",
+                        "faltas": "12",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -132722,10 +132722,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "128",
-                "frequencia": "78%",
+                "total_faltas": "136",
+                "frequencia": "79%",
                 "freq_bim1": "81%",
-                "freq_bim2": "74%",
+                "freq_bim2": "75%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -133055,7 +133055,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "108",
-                "frequencia": "81%",
+                "frequencia": "82%",
                 "freq_bim1": "65%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -133221,7 +133221,7 @@ const BOLETIM_DATA = [
                     }
                 ],
                 "total_faltas": "109",
-                "frequencia": "80%",
+                "frequencia": "82%",
                 "freq_bim1": "65%",
                 "freq_bim2": "100%",
                 "freq_bim3": "-",
@@ -133257,7 +133257,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCAÇAO FINANCEIRA 52000",
                         "numero": "43",
                         "bim1": "5",
-                        "bim2": "3",
+                        "bim2": "4",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -133334,11 +133334,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "43",
                         "bim1": "6",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "10",
+                        "faltas": "22",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -133386,10 +133386,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "141",
+                "total_faltas": "153",
                 "frequencia": "77%",
                 "freq_bim1": "79%",
-                "freq_bim2": "72%",
+                "freq_bim2": "73%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -133500,11 +133500,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "44",
                         "bim1": "5",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "5",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -133552,10 +133552,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "13",
-                "frequencia": "98%",
+                "total_faltas": "18",
+                "frequencia": "97%",
                 "freq_bim1": "99%",
-                "freq_bim2": "96%",
+                "freq_bim2": "95%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -133666,11 +133666,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "45",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "11",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -133718,8 +133718,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "58",
-                "frequencia": "91%",
+                "total_faltas": "69",
+                "frequencia": "90%",
                 "freq_bim1": "99%",
                 "freq_bim2": "79%",
                 "freq_bim3": "-",
@@ -133832,11 +133832,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "46",
                         "bim1": "4",
-                        "bim2": "-",
+                        "bim2": "7",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "13",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -133884,8 +133884,8 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "65",
-                "frequencia": "89%",
+                "total_faltas": "78",
+                "frequencia": "88%",
                 "freq_bim1": "100%",
                 "freq_bim2": "75%",
                 "freq_bim3": "-",
@@ -133921,7 +133921,7 @@ const BOLETIM_DATA = [
                         "subject": "EDUCAÇAO FINANCEIRA 52000",
                         "numero": "47",
                         "bim1": "-",
-                        "bim2": "0",
+                        "bim2": "2",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
@@ -133998,11 +133998,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "47",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "8",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -134050,10 +134050,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "101",
-                "frequencia": "62%",
+                "total_faltas": "109",
+                "frequencia": "65%",
                 "freq_bim1": "100%",
-                "freq_bim2": "62%",
+                "freq_bim2": "65%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -134164,11 +134164,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "48",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "6",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -134216,10 +134216,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "72",
-                "frequencia": "73%",
+                "total_faltas": "78",
+                "frequencia": "75%",
                 "freq_bim1": "100%",
-                "freq_bim2": "73%",
+                "freq_bim2": "75%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -134330,11 +134330,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "49",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "5",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -134382,7 +134382,7 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "22",
+                "total_faltas": "24",
                 "frequencia": "92%",
                 "freq_bim1": "100%",
                 "freq_bim2": "92%",
@@ -134496,11 +134496,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "50",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "2",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -134548,10 +134548,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "28",
-                "frequencia": "89%",
+                "total_faltas": "30",
+                "frequencia": "90%",
                 "freq_bim1": "100%",
-                "freq_bim2": "89%",
+                "freq_bim2": "90%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             },
@@ -134662,11 +134662,11 @@ const BOLETIM_DATA = [
                         "subject": "MATEMATICA 2700",
                         "numero": "51",
                         "bim1": "-",
-                        "bim2": "-",
+                        "bim2": "6",
                         "bim3": "-",
                         "bim4": "-",
                         "final": "-",
-                        "faltas": "0",
+                        "faltas": "10",
                         "ausencia_compensada": "0"
                     },
                     {
@@ -134714,10 +134714,10 @@ const BOLETIM_DATA = [
                         "ausencia_compensada": "0"
                     }
                 ],
-                "total_faltas": "66",
-                "frequencia": "93%",
+                "total_faltas": "76",
+                "frequencia": "94%",
                 "freq_bim1": "100%",
-                "freq_bim2": "93%",
+                "freq_bim2": "94%",
                 "freq_bim3": "-",
                 "freq_bim4": "-"
             }
