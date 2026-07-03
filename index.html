@@ -99,13 +99,29 @@
         </div>
     </div>
 
-    <script src="data/data.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            if (typeof BOLETIM_DATA === 'undefined') {
-                alert('Erro: Arquivo de dados não encontrado.');
-                return;
+        // Carrega data.js dinamicamente aplicando cache-busting apenas quando online (http/https)
+        (function() {
+            let dataUrl = 'data/data.js';
+            if (window.location.protocol === 'http:' || window.location.protocol === 'https:') {
+                dataUrl += '?t=' + new Date().getTime();
             }
+            const script = document.createElement('script');
+            script.src = dataUrl;
+            script.onload = () => {
+                if (typeof BOLETIM_DATA === 'undefined') {
+                    alert('Erro: Arquivo de dados não encontrado.');
+                    return;
+                }
+                initApp();
+            };
+            document.head.appendChild(script);
+        })();
+
+        function initApp() {
+            const classes = BOLETIM_DATA;
+            const classSelect = document.getElementById('class-select');
+            const studentSelect = document.getElementById('student-select');
 
             // Função para extrair apenas a turma (ex: "2ª SERIE B MANHA")
             function getCleanClassName(turma) {
@@ -116,17 +132,12 @@
                 return turma;
             }
 
-            const classes = BOLETIM_DATA;
-
             // Ordena as turmas em ordem alfabética pelo nome limpo
             classes.sort((a, b) => {
                 const nameA = getCleanClassName(a.metadata.turma).toUpperCase();
                 const nameB = getCleanClassName(b.metadata.turma).toUpperCase();
                 return nameA.localeCompare(nameB);
             });
-
-            const classSelect = document.getElementById('class-select');
-            const studentSelect = document.getElementById('student-select');
 
             // Populate Class Selector
             classes.forEach((classData, index) => {
@@ -209,7 +220,7 @@
                 classSelect.value = 0;
                 populateStudents(0);
             }
-        });
+        }
 
         function cleanSubjectName(name) {
             // Remove numbers at the end (codes)
