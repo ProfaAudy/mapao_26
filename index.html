@@ -78,10 +78,10 @@
                 <thead>
                     <tr>
                         <th class="subject-td">Disciplina</th>
-                        <th>1º Bim</th>
-                        <th>2º Bim</th>
-                        <th>3º Bim</th>
-                        <th>4º Bim</th>
+                        <th id="th-bim1">1º Bim</th>
+                        <th id="th-bim2">2º Bim</th>
+                        <th id="th-bim3">3º Bim</th>
+                        <th id="th-bim4">4º Bim</th>
                         <th>Final</th>
                         <th>Faltas</th>
                         <th>A.C.</th>
@@ -235,6 +235,12 @@
             
             document.getElementById('total-faltas').textContent = student.total_faltas;
             freqEl.textContent = student.frequencia;
+
+            // Atualiza as frequências bimestrais abaixo do cabeçalho
+            document.getElementById('th-bim1').innerHTML = `1º Bim<br><span class="freq-sub">${student.freq_bim1 || '-'}</span>`;
+            document.getElementById('th-bim2').innerHTML = `2º Bim<br><span class="freq-sub">${student.freq_bim2 || '-'}</span>`;
+            document.getElementById('th-bim3').innerHTML = `3º Bim<br><span class="freq-sub">${student.freq_bim3 || '-'}</span>`;
+            document.getElementById('th-bim4').innerHTML = `4º Bim<br><span class="freq-sub">${student.freq_bim4 || '-'}</span>`;
 
             // Frequency Traffic Light (Farol)
             const freqValue = parseFloat(student.frequencia.replace('%', '').replace(',', '.'));

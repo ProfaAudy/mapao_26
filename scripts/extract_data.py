@@ -6,6 +6,15 @@ import glob
 sources_dir = r'I:\Meu Drive\PROATI\Boletim\sources'
 output_path = r'I:\Meu Drive\PROATI\Boletim\data\data.js'
 
+def to_int(val):
+    if not val or str(val).strip() in ['-', 'nan', '']:
+        return 0
+    try:
+        clean_val = str(val).split('.')[0].strip()
+        return int(clean_val)
+    except Exception:
+        return 0
+
 def extract_file_data(file_path):
     try:
         df = pd.read_excel(file_path, header=None)
@@ -36,6 +45,21 @@ def extract_file_data(file_path):
             "students": []
         }
         
+        # Identifica as colunas de cabeçalho da linha 11
+        row11 = list(df.iloc[11])
+        tf_idx = len(row11) - 4
+        fre_idx = len(row11) - 1  # Por padrão tenta a última coluna: Fre An(%)
+        fre_bim_idx = len(row11) - 3  # Por padrão tenta a coluna: Fre(%)
+        
+        for idx_col, val in enumerate(row11):
+            val_str = str(val).strip()
+            if val_str == 'TF':
+                tf_idx = idx_col
+            elif val_str == 'Fre An(%)':
+                fre_idx = idx_col
+            elif val_str == 'Fre(%)':
+                fre_bim_idx = idx_col
+
         # Linhas de cabeçalho: linha 10 nomes das matérias, linha 11 subcabeçalhos (Nº, M, F, AC)
         subject_row = df.iloc[10]
         for i in range(2, len(subject_row) - 4, 4):
@@ -53,13 +77,23 @@ def extract_file_data(file_path):
             if not name or name == 'nan' or name == 'Aulas Dadas:' or name == 'Legenda' or name == ' ' or name == '':
                 break
                 
+            freq_bim_val = str(row[fre_bim_idx]).strip()
+            if not freq_bim_val or freq_bim_val.lower() in ['nan', '']:
+                freq_bim_val = '-'
+                
             student = {
                 "name": name,
                 "situacao": str(row[1]).strip(),
                 "grades": [],
-                "total_faltas": str(row[len(row)-4]).strip(),
-                "frequencia": str(row[len(row)-3]).strip()
+                "total_faltas": str(row[tf_idx]).strip(),
+                "frequencia": str(row[fre_idx]).strip(),
+                "freq_bim1": "-",
+                "freq_bim2": "-",
+                "freq_bim3": "-",
+                "freq_bim4": "-"
             }
+            # Atribui no bimestre correspondente
+            student[f"freq_bim{bim_index}"] = freq_bim_val
             
             for sub in class_data["subjects"]:
                 col = sub["col_idx"]
@@ -128,13 +162,18 @@ def main():
                 if name in existing_students:
                     est = existing_students[name]
                     
-                    # Atualiza informações gerais com o bimestre mais recente
+                    # Atualiza informações gerais com o bimestre mais recente (frequência e situação)
                     if bim_index >= existing_class["_highest_bim"]:
-                        est["total_faltas"] = new_student["total_faltas"]
                         est["frequencia"] = new_student["frequencia"]
                         est["situacao"] = new_student["situacao"]
                         
-                    # Mescla notas das matérias
+                    # Acumula o total de faltas do aluno somando as do bimestre atual com as anteriores
+                    est["total_faltas"] = str(to_int(est["total_faltas"]) + to_int(new_student["total_faltas"]))
+                    
+                    # Mescla as frequências bimestrais
+                    est[f"freq_bim{bim_index}"] = new_student[f"freq_bim{bim_index}"]
+                        
+                    # Mescla notas das matérias e soma suas faltas/AC
                     est_grades = {g["subject"]: g for g in est["grades"]}
                     for new_grade in new_student["grades"]:
                         sub_name = new_grade["subject"]
@@ -143,9 +182,9 @@ def main():
                         if sub_name in est_grades:
                             # Atualiza a nota do bimestre correspondente
                             est_grades[sub_name][f"bim{bim_index}"] = val
-                            # Atualiza também faltas e AC mais recentes da matéria
-                            est_grades[sub_name]["faltas"] = new_grade["faltas"]
-                            est_grades[sub_name]["ausencia_compensada"] = new_grade["ausencia_compensada"]
+                            # Soma as faltas e AC do bimestre para cada matéria
+                            est_grades[sub_name]["faltas"] = str(to_int(est_grades[sub_name]["faltas"]) + to_int(new_grade["faltas"]))
+                            est_grades[sub_name]["ausencia_compensada"] = str(to_int(est_grades[sub_name]["ausencia_compensada"]) + to_int(new_grade["ausencia_compensada"]))
                         else:
                             est["grades"].append(new_grade)
                 else:

@@ -319,6 +319,16 @@ tr:hover { background-color: #f8fafc; }
     color: #cbd5e1;
 }
 
+/* Frequência Sub-cabeçalho */
+.freq-sub {
+    font-size: 0.75em;
+    font-weight: 500;
+    opacity: 0.85;
+    color: #cbd5e1;
+    display: block;
+    margin-top: 4px;
+}
+
 @media print {
     body { background: white; padding: 0; }
     .controls, #student-select, .btn-nav { display: none; }
