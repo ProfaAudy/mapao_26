@@ -1,38 +1,66 @@
-# 🎓 Sistema de Boletim Escolar Digital
+# 📊 Dashboard de Gestão Escolar & Consolidação de Boletins (Mapão 2026)
 
-Este projeto automatiza a geração de boletins escolares a partir de arquivos "Mapão" do Excel (XLSX). Ele transforma dados brutos em uma interface web interativa, visual e pronta para impressão.
+Aplicação web estática e pipeline de dados em Python para extração, automação e visualização consolidada de notas e desempenhos acadêmicos por turma e bimestre.
 
-## 📁 Estrutura do Projeto
+---
 
-*   `index.html`: Interface principal para visualização dos boletins.
-*   `📂 data/`: Contém os dados processados em formato JSON (`data.js`).
-*   `📂 scripts/`: Scripts Python para extração e conversão de dados.
-*   `📂 sources/`: Pasta destinada aos arquivos Excel originais (Mapão).
-*   `📂 styles/`: Contém as folhas de estilo CSS (`style.css`).
+## 🛠️ Tecnologias Utilizadas
 
-## 🚀 Funcionalidades Principais
+- **Pipeline de Dados & Parsing:** Python 3 (openpyxl / pandas)
+- **Frontend / Interface:** HTML5, CSS3 moderno (Flexbox/Grid), JavaScript Vanilla
+- **Automação de Execução:** Windows Batch Script (`.bat`)
+- **Desenvolvimento Assistido por IA:** Claude / ChatGPT / Gemini Agent Protocols (`.agents/AGENTS.md`)
 
--   **Seletor de Alunos:** Dropdown para alternar instantaneamente entre os alunos da turma.
--   **Farol de Frequência:** Indicadores visuais coloridos para a frequência geral:
-    -   🟢 **Verde:** ≥ 90%
-    -   🟡 **Amarelo:** 85% a 89%
-    -   🔴 **Vermelho:** < 85%
--   **Destaque de Notas:** Notas abaixo de 5,0 (ou menções EP/ED) são destacadas automaticamente em **vermelho**.
--   **Cálculo de Média:** O sistema gera uma prévia da nota final (5º conceito) baseada na média aritmética dos bimestres preenchidos.
--   **Status de Atividade:** Identificação visual para alunos inativos na turma (Transferidos, Baixa, etc.).
--   **Modo de Impressão:** Layout otimizado para gerar PDF ou imprimir o boletim individual sem os controles da web.
+---
 
-## 🛠️ Como Atualizar os Dados
+## 💡 Desenvolvimento Assistido por Inteligência Artificial (AI Transparency)
 
-Sempre que houver um novo arquivo de Mapão ou atualização de notas:
+Este projeto foi construído utilizando metodologias de **Engenharia de Software Assistida por IA (AI-Driven Development)**. O fluxo de trabalho combinou supervisão arquitetural humana rigorosa com aceleração do ciclo de código via Agentes de IA:
 
-1. Coloque o arquivo `.xlsx` atualizado na pasta `sources/`.
-2. Dê um duplo clique no arquivo `atualizar_boletim.bat` na raiz do projeto.
-3. O script irá processar os dados em Python e enviar as atualizações automaticamente para o GitHub.
+### 🤖 Papel da IA no Projeto:
+1. **Geração e Refatoração de Scripts:** Auxílio na construção da lógica de parsing do script Python (`extract_data.py`) para leitura das planilhas de origem (`sources/*.xlsx`).
+2. **Prototipagem de Interface:** Criação da estrutura base do frontend estático e estilização CSS responsiva.
+3. **Documentação e Protocolos:** Estruturação das regras operacionais documentadas em `.agents/AGENTS.md`.
 
-*(Nota: Caso queira fazer a extração manualmente sem enviar para o GitHub, você ainda pode rodar `python scripts/extract_data.py` no terminal).*
+### 🧠 Papel Humano (Engenharia & Validação):
+1. **Arquitetura & Requisitos:** Modelagem da estrutura de dados (`data.js`) e definição dos fluxos de atualização.
+2. **Engenharia de Prompt & Raciocínio:** Direcionamento preciso das instruções, contexto pedagógico e restrições de integridade.
+3. **Code Review & Troubleshooting:** Validação dos testes de extração, correção de bugs de layout e tratamento de exceções de planilhas.
 
-## 📋 Requisitos
+---
 
--   **Navegador:** Qualquer navegador moderno (Chrome, Edge, Firefox).
--   **Extração de Dados:** Python 3.x com a biblioteca `pandas` e `openpyxl`.
+## 📂 Estrutura do Repositório
+
+```text
+├── .agents/              # Instruções e diretrizes operacionais dos Agentes de IA
+├── data/                 # Dados consolidados gerados em formato JavaScript/JSON (data.js)
+├── scripts/              # Pipeline em Python (extract_data.py) para extração de planilhas
+├── sources/              # Planilhas de origem em Excel (1º e 2º Bimestres)
+├── styles/               # Folhas de estilo CSS
+├── atualizar_boletim.bat # Script Batch para execução automatizada do pipeline no Windows
+├── index.html            # Dashboard interativo do Mapão Escolar
+└── README.md             # Documentação oficial do projeto
+
+```
+
+---
+
+## 🚀 Como Executar o Projeto
+
+### 1. Atualização dos Dados (Pipeline Python)
+
+Caso haja novas planilhas na pasta `sources/`, execute o script Batch para reprocessar os dados:
+
+```cmd
+atualizar_boletim.bat
+
+```
+
+*(Ou rode manualmente o script Python: `python scripts/extract_data.py`)*
+
+### 2. Visualização do Dashboard
+
+Basta abrir o arquivo `index.html` em qualquer navegador web moderno (não requer servidor Node.js ou backend dinâmico).
+
+```
+
