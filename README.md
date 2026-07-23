@@ -61,6 +61,3 @@ atualizar_boletim.bat
 ### 2. Visualização do Dashboard
 
 Basta abrir o arquivo `index.html` em qualquer navegador web moderno (não requer servidor Node.js ou backend dinâmico).
-
-```
-
