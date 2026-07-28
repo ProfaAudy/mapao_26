@@ -38,13 +38,21 @@
             <div class="control-group action-group">
                 <label class="info-label">&nbsp;</label>
                 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-                    <button id="btn-open-report" class="btn-report" title="Gerar Relatório de Notas Vermelhas por Aluno (1º e 2º Bimestre)">
+                    <button id="btn-open-report" class="btn-report" title="Gerar Relatório de Notas Vermelhas por Aluno (Detalhado)">
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
                         Relatório por Alunos
+                    </button>
+                    <button id="btn-open-class-compiled" class="btn-report-class" title="Compilado por Turma (Nome Único por Aluno)">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+                        Compilado por Turma
                     </button>
                     <button id="btn-open-subject-report" class="btn-report-subject" title="Gerar Relatório Apenas das Disciplinas com Nota Vermelha">
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
                         Relatório por Disciplinas
+                    </button>
+                    <button id="btn-open-grade-report" class="btn-report-grade" title="Relatório por Série/Ano das Disciplinas com Nota Vermelha">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+                        Relatório por Série
                     </button>
                 </div>
             </div>
@@ -267,6 +275,158 @@
         </div>
     </div>
 
+    <!-- Modal: Compilado por Turma (Nome Único por Aluno) -->
+    <div id="class-compiled-modal" class="modal-overlay" style="display: none;">
+        <div class="modal-container">
+            <div class="modal-header" style="background: linear-gradient(135deg, #065f46, #047857);">
+                <div>
+                    <h2>Compilado por Turma (Alunos com Nota Vermelha)</h2>
+                    <p class="modal-subtitle">Cada aluno aparece apenas 1 vez por turma com a listagem de suas disciplinas afetadas (&lt; 5,0 ou EP/ED)</p>
+                </div>
+                <button id="btn-close-class-modal" class="btn-close" title="Fechar">&times;</button>
+            </div>
+
+            <div class="modal-filters">
+                <div class="filter-item">
+                    <label for="class-compiled-filter">Filtrar Turma:</label>
+                    <select id="class-compiled-filter">
+                        <option value="ALL">Todas as Turmas</option>
+                        <option value="CURRENT">Turma Selecionada</option>
+                    </select>
+                </div>
+                <div class="filter-item">
+                    <label for="class-compiled-bim-filter">Bimestres:</label>
+                    <select id="class-compiled-bim-filter">
+                        <option value="BOTH">1º ou 2º Bimestre (Ambos)</option>
+                        <option value="BIM1">Apenas 1º Bimestre</option>
+                        <option value="BIM2">Apenas 2º Bimestre</option>
+                    </select>
+                </div>
+                <div class="filter-item">
+                    <label for="class-compiled-status-filter">Situação do Aluno:</label>
+                    <select id="class-compiled-status-filter">
+                        <option value="ATIVO">Apenas Alunos Ativos</option>
+                        <option value="ALL">Todos os Alunos</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="report-stats">
+                <div class="report-stat-card" style="background: #ecfdf5; border-color: #a7f3d0;">
+                    <span class="report-stat-num" id="class-compiled-total-students" style="color: #047857;">0</span>
+                    <span class="report-stat-lbl" style="color: #065f46;">Alunos Únicos com Nota Vermelha</span>
+                </div>
+                <div class="report-stat-card">
+                    <span class="report-stat-num" id="class-compiled-total-classes">0</span>
+                    <span class="report-stat-lbl">Turmas com Ocorrências</span>
+                </div>
+            </div>
+
+            <div class="modal-body-table table-container">
+                <table id="class-compiled-table">
+                    <thead>
+                        <tr>
+                            <th>Nº</th>
+                            <th>Nome do Aluno</th>
+                            <th>Disciplinas com Nota Vermelha</th>
+                            <th>Qtd Matérias</th>
+                        </tr>
+                    </thead>
+                    <tbody id="class-compiled-tbody">
+                        <!-- Preenchido via JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="modal-footer">
+                <button id="btn-export-class-csv" class="btn-secondary">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                    Exportar CSV
+                </button>
+                <button id="btn-print-class-report" class="btn-primary" style="background: #047857;">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>
+                    Imprimir Relatório
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Relatório por Série (Disciplinas com Nota Vermelha) -->
+    <div id="grade-report-modal" class="modal-overlay" style="display: none;">
+        <div class="modal-container">
+            <div class="modal-header" style="background: linear-gradient(135deg, #78350f, #b45309);">
+                <div>
+                    <h2>Relatório por Série (Disciplinas com Nota Vermelha)</h2>
+                    <p class="modal-subtitle">Consolidado por Série/Ano Letivo mostrando matérias afetadas (&lt; 5,0 ou EP/ED)</p>
+                </div>
+                <button id="btn-close-grade-modal" class="btn-close" title="Fechar">&times;</button>
+            </div>
+
+            <div class="modal-filters">
+                <div class="filter-item">
+                    <label for="grade-report-serie-filter">Filtrar Série:</label>
+                    <select id="grade-report-serie-filter">
+                        <option value="ALL">Todas as Séries</option>
+                    </select>
+                </div>
+                <div class="filter-item">
+                    <label for="grade-report-bim-filter">Bimestres:</label>
+                    <select id="grade-report-bim-filter">
+                        <option value="BOTH">1º ou 2º Bimestre (Ambos)</option>
+                        <option value="BIM1">Apenas 1º Bimestre</option>
+                        <option value="BIM2">Apenas 2º Bimestre</option>
+                    </select>
+                </div>
+                <div class="filter-item">
+                    <label for="grade-report-status-filter">Situação do Aluno:</label>
+                    <select id="grade-report-status-filter">
+                        <option value="ATIVO">Apenas Alunos Ativos</option>
+                        <option value="ALL">Todos os Alunos</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="report-stats">
+                <div class="report-stat-card" style="background: #fffbebf5; border-color: #fde68a;">
+                    <span class="report-stat-num" id="grade-report-total-series" style="color: #b45309;">0</span>
+                    <span class="report-stat-lbl" style="color: #78350f;">Séries Afetadas</span>
+                </div>
+                <div class="report-stat-card">
+                    <span class="report-stat-num" id="grade-report-total-occurrences">0</span>
+                    <span class="report-stat-lbl">Total de Alunos Afetados na Série</span>
+                </div>
+            </div>
+
+            <div class="modal-body-table table-container">
+                <table id="grade-report-table">
+                    <thead>
+                        <tr>
+                            <th>Disciplina</th>
+                            <th>Turmas Afetadas na Série</th>
+                            <th>Alunos 1º Bim</th>
+                            <th>Alunos 2º Bim</th>
+                            <th>Total Alunos Afetados</th>
+                        </tr>
+                    </thead>
+                    <tbody id="grade-report-tbody">
+                        <!-- Preenchido via JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="modal-footer">
+                <button id="btn-export-grade-csv" class="btn-secondary">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                    Exportar CSV
+                </button>
+                <button id="btn-print-grade-report" class="btn-primary" style="background: #b45309;">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>
+                    Imprimir Relatório
+                </button>
+            </div>
+        </div>
+    </div>
+
     <script>
         // Carrega data.js dinamicamente aplicando cache-busting apenas quando online (http/https)
         (function() {
@@ -385,7 +545,9 @@
 
             // Configura os modais de relatórios
             setupReportModal(classes, getCleanClassName);
+            setupClassCompiledModal(classes, getCleanClassName);
             setupSubjectReportModal(classes, getCleanClassName);
+            setupGradeReportModal(classes, getCleanClassName);
 
             // Initial load
             if (classes.length > 0) {
@@ -710,6 +872,376 @@
                 const link = document.createElement('a');
                 link.setAttribute('href', url);
                 link.setAttribute('download', `relatorio_disciplinas_notas_vermelhas_${new Date().toISOString().slice(0,10)}.csv`);
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+            }
+        }
+
+        function getSerieName(cleanClassName) {
+            const match = cleanClassName.match(/^(\d+[ªº]?\s+(?:SERIE|ANO|SÉRIE))/i);
+            if (match) {
+                return match[1].toUpperCase();
+            }
+            const parts = cleanClassName.split(' ');
+            if (parts.length >= 2) {
+                return `${parts[0]} ${parts[1]}`.toUpperCase();
+            }
+            return cleanClassName;
+        }
+
+        function setupClassCompiledModal(classes, getCleanClassName) {
+            const modal = document.getElementById('class-compiled-modal');
+            const btnOpen = document.getElementById('btn-open-class-compiled');
+            const btnClose = document.getElementById('btn-close-class-modal');
+            const filterClass = document.getElementById('class-compiled-filter');
+            const filterBim = document.getElementById('class-compiled-bim-filter');
+            const filterStatus = document.getElementById('class-compiled-status-filter');
+            const tbody = document.getElementById('class-compiled-tbody');
+            const totalStudentsEl = document.getElementById('class-compiled-total-students');
+            const totalClassesEl = document.getElementById('class-compiled-total-classes');
+            const btnPrint = document.getElementById('btn-print-class-report');
+            const btnExport = document.getElementById('btn-export-class-csv');
+
+            if (!modal || !btnOpen) return;
+
+            btnOpen.addEventListener('click', () => {
+                modal.style.display = 'flex';
+                renderClassCompiled();
+            });
+
+            btnClose.addEventListener('click', () => {
+                modal.style.display = 'none';
+            });
+
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    modal.style.display = 'none';
+                }
+            });
+
+            filterClass.addEventListener('change', renderClassCompiled);
+            filterBim.addEventListener('change', renderClassCompiled);
+            filterStatus.addEventListener('change', renderClassCompiled);
+
+            btnPrint.addEventListener('click', () => {
+                window.print();
+            });
+
+            btnExport.addEventListener('click', exportCSV);
+
+            function getClassCompiledData() {
+                const classMode = filterClass.value;
+                const bimMode = filterBim.value;
+                const statusMode = filterStatus.value;
+                const currentClassIdx = document.getElementById('class-select').value;
+
+                let targetClasses = classes;
+                if (classMode === 'CURRENT' && currentClassIdx !== '') {
+                    targetClasses = [classes[currentClassIdx]];
+                }
+
+                const classGroupMap = new Map();
+                let totalUniqueStudents = 0;
+
+                targetClasses.forEach((cls) => {
+                    const className = getCleanClassName(cls.metadata.turma);
+                    const studentList = [];
+
+                    cls.students.forEach((student) => {
+                        const isAtivo = student.situacao.toLowerCase() === 'ativo';
+                        if (statusMode === 'ATIVO' && !isAtivo) return;
+
+                        const redSubjects = [];
+
+                        student.grades.forEach((g) => {
+                            const isBim1Red = isLowGrade(g.bim1);
+                            const isBim2Red = isLowGrade(g.bim2);
+
+                            let matches = false;
+                            if (bimMode === 'BOTH' && (isBim1Red || isBim2Red)) matches = true;
+                            else if (bimMode === 'BIM1' && isBim1Red) matches = true;
+                            else if (bimMode === 'BIM2' && isBim2Red) matches = true;
+
+                            if (matches) {
+                                redSubjects.push({
+                                    subject: cleanSubjectName(g.subject),
+                                    bim1: g.bim1,
+                                    bim2: g.bim2,
+                                    isBim1Red,
+                                    isBim2Red,
+                                    numero: g.numero || '-'
+                                });
+                            }
+                        });
+
+                        if (redSubjects.length > 0) {
+                            totalUniqueStudents++;
+                            studentList.push({
+                                studentName: student.name,
+                                numero: redSubjects[0].numero,
+                                situacao: student.situacao,
+                                redSubjects
+                            });
+                        }
+                    });
+
+                    if (studentList.length > 0) {
+                        classGroupMap.set(className, studentList);
+                    }
+                });
+
+                return { classGroupMap, totalUniqueStudents, totalClasses: classGroupMap.size };
+            }
+
+            function renderClassCompiled() {
+                const { classGroupMap, totalUniqueStudents, totalClasses } = getClassCompiledData();
+
+                totalStudentsEl.textContent = totalUniqueStudents;
+                totalClassesEl.textContent = totalClasses;
+
+                tbody.innerHTML = '';
+                if (classGroupMap.size === 0) {
+                    tbody.innerHTML = `<tr><td colspan="4" style="padding: 24px; color: #64748b;">Nenhum estudante com nota vermelha encontrado.</td></tr>`;
+                    return;
+                }
+
+                classGroupMap.forEach((students, className) => {
+                    const headerTr = document.createElement('tr');
+                    headerTr.className = 'group-header-row';
+                    headerTr.innerHTML = `<td colspan="4">🏫 ${className} (${students.length} alunos com nota vermelha)</td>`;
+                    tbody.appendChild(headerTr);
+
+                    students.forEach(st => {
+                        const tr = document.createElement('tr');
+                        const subjectTags = st.redSubjects.map(sub => {
+                            const bimDetails = [];
+                            if (sub.isBim1Red) bimDetails.push(`1ºB: ${sub.bim1}`);
+                            if (sub.isBim2Red) bimDetails.push(`2ºB: ${sub.bim2}`);
+                            return `<span class="subject-red-tag">${sub.subject} (${bimDetails.join(', ')})</span>`;
+                        }).join(' ');
+
+                        tr.innerHTML = `
+                            <td>${st.numero}</td>
+                            <td style="text-align: left; font-weight: 600;">${st.studentName}</td>
+                            <td style="text-align: left;">${subjectTags}</td>
+                            <td><span class="badge-count">${st.redSubjects.length}</span></td>
+                        `;
+                        tbody.appendChild(tr);
+                    });
+                });
+            }
+
+            function exportCSV() {
+                const { classGroupMap } = getClassCompiledData();
+                if (classGroupMap.size === 0) {
+                    alert('Não há dados para exportar.');
+                    return;
+                }
+
+                let csvContent = '\uFEFFTurma;Nº;Nome do Aluno;Disciplinas com Nota Vermelha;Qtd Matérias\n';
+                classGroupMap.forEach((students, className) => {
+                    students.forEach(st => {
+                        const subsStr = st.redSubjects.map(s => {
+                            const bims = [];
+                            if (s.isBim1Red) bims.push(`1ºB:${s.bim1}`);
+                            if (s.isBim2Red) bims.push(`2ºB:${s.bim2}`);
+                            return `${s.subject} (${bims.join(', ')})`;
+                        }).join(' | ');
+
+                        const rowStr = `"${className}";"${st.numero}";"${st.studentName}";"${subsStr}";"${st.redSubjects.length}"\n`;
+                        csvContent += rowStr;
+                    });
+                });
+
+                const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+                const url = URL.createObjectURL(blob);
+                const link = document.createElement('a');
+                link.setAttribute('href', url);
+                link.setAttribute('download', `compilado_turma_notas_vermelhas_${new Date().toISOString().slice(0,10)}.csv`);
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+            }
+        }
+
+        function setupGradeReportModal(classes, getCleanClassName) {
+            const modal = document.getElementById('grade-report-modal');
+            const btnOpen = document.getElementById('btn-open-grade-report');
+            const btnClose = document.getElementById('btn-close-grade-modal');
+            const filterSerie = document.getElementById('grade-report-serie-filter');
+            const filterBim = document.getElementById('grade-report-bim-filter');
+            const filterStatus = document.getElementById('grade-report-status-filter');
+            const tbody = document.getElementById('grade-report-tbody');
+            const totalSeriesEl = document.getElementById('grade-report-total-series');
+            const totalOccurrencesEl = document.getElementById('grade-report-total-occurrences');
+            const btnPrint = document.getElementById('btn-print-grade-report');
+            const btnExport = document.getElementById('btn-export-grade-csv');
+
+            if (!modal || !btnOpen) return;
+
+            function populateSerieFilter() {
+                const seriesSet = new Set();
+                classes.forEach(c => {
+                    const cleanName = getCleanClassName(c.metadata.turma);
+                    seriesSet.add(getSerieName(cleanName));
+                });
+                const sortedSeries = Array.from(seriesSet).sort();
+                
+                filterSerie.innerHTML = '<option value="ALL">Todas as Séries</option>';
+                sortedSeries.forEach(s => {
+                    const opt = document.createElement('option');
+                    opt.value = s;
+                    opt.textContent = s;
+                    filterSerie.appendChild(opt);
+                });
+            }
+
+            populateSerieFilter();
+
+            btnOpen.addEventListener('click', () => {
+                modal.style.display = 'flex';
+                renderGradeReport();
+            });
+
+            btnClose.addEventListener('click', () => {
+                modal.style.display = 'none';
+            });
+
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    modal.style.display = 'none';
+                }
+            });
+
+            filterSerie.addEventListener('change', renderGradeReport);
+            filterBim.addEventListener('change', renderGradeReport);
+            filterStatus.addEventListener('change', renderGradeReport);
+
+            btnPrint.addEventListener('click', () => {
+                window.print();
+            });
+
+            btnExport.addEventListener('click', exportCSV);
+
+            function getGradeReportData() {
+                const selectedSerie = filterSerie.value;
+                const bimMode = filterBim.value;
+                const statusMode = filterStatus.value;
+
+                const serieGroupMap = new Map();
+                const globalStudentSet = new Set();
+
+                classes.forEach((cls) => {
+                    const className = getCleanClassName(cls.metadata.turma);
+                    const serieName = getSerieName(className);
+
+                    if (selectedSerie !== 'ALL' && serieName !== selectedSerie) return;
+
+                    cls.students.forEach((student) => {
+                        const isAtivo = student.situacao.toLowerCase() === 'ativo';
+                        if (statusMode === 'ATIVO' && !isAtivo) return;
+
+                        student.grades.forEach((g) => {
+                            const isBim1Red = isLowGrade(g.bim1);
+                            const isBim2Red = isLowGrade(g.bim2);
+
+                            let matches = false;
+                            if (bimMode === 'BOTH' && (isBim1Red || isBim2Red)) matches = true;
+                            else if (bimMode === 'BIM1' && isBim1Red) matches = true;
+                            else if (bimMode === 'BIM2' && isBim2Red) matches = true;
+
+                            if (matches) {
+                                const subName = cleanSubjectName(g.subject);
+                                if (!serieGroupMap.has(serieName)) {
+                                    serieGroupMap.set(serieName, new Map());
+                                }
+                                const subMap = serieGroupMap.get(serieName);
+
+                                if (!subMap.has(subName)) {
+                                    subMap.set(subName, {
+                                        subjectName: subName,
+                                        bim1Set: new Set(),
+                                        bim2Set: new Set(),
+                                        classesSet: new Set(),
+                                        studentSet: new Set()
+                                    });
+                                }
+
+                                const item = subMap.get(subName);
+                                const studentKey = `${className}_${student.name}`;
+
+                                item.classesSet.add(className);
+                                if (isBim1Red) item.bim1Set.add(studentKey);
+                                if (isBim2Red) item.bim2Set.add(studentKey);
+                                item.studentSet.add(studentKey);
+                                globalStudentSet.add(studentKey);
+                            }
+                        });
+                    });
+                });
+
+                return { serieGroupMap, totalSeries: serieGroupMap.size, totalOccurrences: globalStudentSet.size };
+            }
+
+            function renderGradeReport() {
+                const { serieGroupMap, totalSeries, totalOccurrences } = getGradeReportData();
+
+                totalSeriesEl.textContent = totalSeries;
+                totalOccurrencesEl.textContent = totalOccurrences;
+
+                tbody.innerHTML = '';
+                if (serieGroupMap.size === 0) {
+                    tbody.innerHTML = `<tr><td colspan="5" style="padding: 24px; color: #64748b;">Nenhuma ocorrência encontrada para os filtros selecionados.</td></tr>`;
+                    return;
+                }
+
+                serieGroupMap.forEach((subMap, serieName) => {
+                    const headerTr = document.createElement('tr');
+                    headerTr.className = 'group-header-row';
+                    headerTr.innerHTML = `<td colspan="5">🎓 ${serieName} (${subMap.size} disciplinas com nota vermelha)</td>`;
+                    tbody.appendChild(headerTr);
+
+                    const subList = Array.from(subMap.values()).sort((a, b) => b.studentSet.size - a.studentSet.size);
+
+                    subList.forEach(sub => {
+                        const tr = document.createElement('tr');
+                        const classesPills = Array.from(sub.classesSet).map(c => `<span class="student-list-pill">${c}</span>`).join(' ');
+
+                        tr.innerHTML = `
+                            <td style="text-align: left; font-weight: 700; color: var(--primary-color);">${sub.subjectName}</td>
+                            <td style="text-align: left;">${classesPills}</td>
+                            <td><span class="${sub.bim1Set.size > 0 ? 'grade-low' : ''}">${sub.bim1Set.size}</span></td>
+                            <td><span class="${sub.bim2Set.size > 0 ? 'grade-low' : ''}">${sub.bim2Set.size}</span></td>
+                            <td><span class="badge-count">${sub.studentSet.size}</span></td>
+                        `;
+                        tbody.appendChild(tr);
+                    });
+                });
+            }
+
+            function exportCSV() {
+                const { serieGroupMap } = getGradeReportData();
+                if (serieGroupMap.size === 0) {
+                    alert('Não há dados para exportar.');
+                    return;
+                }
+
+                let csvContent = '\uFEFFSérie;Disciplina;Turmas Afetadas;Qtd Alunos 1º Bim;Qtd Alunos 2º Bim;Total Alunos Afetados\n';
+                serieGroupMap.forEach((subMap, serieName) => {
+                    const subList = Array.from(subMap.values()).sort((a, b) => b.studentSet.size - a.studentSet.size);
+                    subList.forEach(sub => {
+                        const classesStr = Array.from(sub.classesSet).join(' | ');
+                        const rowStr = `"${serieName}";"${sub.subjectName}";"${classesStr}";"${sub.bim1Set.size}";"${sub.bim2Set.size}";"${sub.studentSet.size}"\n`;
+                        csvContent += rowStr;
+                    });
+                });
+
+                const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+                const url = URL.createObjectURL(blob);
+                const link = document.createElement('a');
+                link.setAttribute('href', url);
+                link.setAttribute('download', `relatorio_serie_disciplinas_notas_vermelhas_${new Date().toISOString().slice(0,10)}.csv`);
                 document.body.appendChild(link);
                 link.click();
                 document.body.removeChild(link);

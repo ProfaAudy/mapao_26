@@ -610,16 +610,90 @@ tr:hover { background-color: #f8fafc; }
     margin: 2px;
 }
 
+/* Botão do Compilado por Turma */
+.btn-report-class {
+    background: linear-gradient(135deg, #059669, #047857);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 20px;
+    font-size: 0.95em;
+    font-family: inherit;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    box-shadow: 0 2px 4px rgba(5, 150, 105, 0.25);
+    transition: all 0.2s ease-in-out;
+    height: 45px;
+}
+
+.btn-report-class:hover {
+    background: linear-gradient(135deg, #047857, #065f46);
+    box-shadow: 0 4px 8px rgba(5, 150, 105, 0.35);
+    transform: translateY(-1px);
+}
+
+/* Botão do Relatório por Série */
+.btn-report-grade {
+    background: linear-gradient(135deg, #d97706, #b45309);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 20px;
+    font-size: 0.95em;
+    font-family: inherit;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    box-shadow: 0 2px 4px rgba(217, 119, 6, 0.25);
+    transition: all 0.2s ease-in-out;
+    height: 45px;
+}
+
+.btn-report-grade:hover {
+    background: linear-gradient(135deg, #b45309, #92400e);
+    box-shadow: 0 4px 8px rgba(217, 119, 6, 0.35);
+    transform: translateY(-1px);
+}
+
+.group-header-row td {
+    background: #f1f5f9 !important;
+    color: var(--primary-color) !important;
+    font-weight: 700 !important;
+    font-size: 1.05em !important;
+    text-align: left !important;
+    padding: 12px 20px !important;
+    border-bottom: 2px solid #cbd5e1 !important;
+}
+
+.subject-red-tag {
+    background: #fef2f2;
+    color: #dc2626;
+    border: 1px solid #fecaca;
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-size: 0.85em;
+    display: inline-block;
+    margin: 2px;
+    font-weight: 500;
+}
+
 /* Regra de impressão para os modais */
 @media print {
     body * {
         visibility: hidden;
     }
     #report-modal, #report-modal *,
-    #subject-report-modal, #subject-report-modal * {
+    #subject-report-modal, #subject-report-modal *,
+    #class-compiled-modal, #class-compiled-modal *,
+    #grade-report-modal, #grade-report-modal * {
         visibility: visible;
     }
-    #report-modal, #subject-report-modal {
+    #report-modal, #subject-report-modal, #class-compiled-modal, #grade-report-modal {
         position: absolute;
         left: 0;
         top: 0;
