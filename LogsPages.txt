@@ -1,0 +1,56 @@
+2026-07-03T16:13:05.7581357Z Current runner version: '2.335.1'
+2026-07-03T16:13:05.7619428Z ##[group]Runner Image Provisioner
+2026-07-03T16:13:05.7620793Z Hosted Compute Agent
+2026-07-03T16:13:05.7621781Z Version: 20260624.560
+2026-07-03T16:13:05.7622685Z Commit: 925d229a51159bc391ae97e54a2dd1fe20af789d
+2026-07-03T16:13:05.7623744Z Build Date: 2026-06-24T18:26:47Z
+2026-07-03T16:13:05.7624900Z Worker ID: {6f3b8915-e46d-45e1-a9b3-a73fcf3bdf47}
+2026-07-03T16:13:05.7626006Z Azure Region: eastus2
+2026-07-03T16:13:05.7626920Z ##[endgroup]
+2026-07-03T16:13:05.7628946Z ##[group]Operating System
+2026-07-03T16:13:05.7629852Z Ubuntu
+2026-07-03T16:13:05.7630973Z 24.04.4
+2026-07-03T16:13:05.7631785Z LTS
+2026-07-03T16:13:05.7632599Z ##[endgroup]
+2026-07-03T16:13:05.7633440Z ##[group]Runner Image
+2026-07-03T16:13:05.7634317Z Image: ubuntu-24.04
+2026-07-03T16:13:05.7635256Z Version: 20260628.225.1
+2026-07-03T16:13:05.7637219Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260628.225/images/ubuntu/Ubuntu2404-Readme.md
+2026-07-03T16:13:05.7639773Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260628.225
+2026-07-03T16:13:05.7641510Z ##[endgroup]
+2026-07-03T16:13:05.7643378Z ##[group]GITHUB_TOKEN Permissions
+2026-07-03T16:13:05.7646509Z Contents: read
+2026-07-03T16:13:05.7647416Z Metadata: read
+2026-07-03T16:13:05.7648249Z Pages: write
+2026-07-03T16:13:05.7649126Z ##[endgroup]
+2026-07-03T16:13:05.7652382Z Secret source: Actions
+2026-07-03T16:13:05.7653494Z Prepare workflow directory
+2026-07-03T16:13:05.8122996Z Prepare all required actions
+2026-07-03T16:13:05.8177449Z Getting action download info
+2026-07-03T16:13:06.0045456Z Download action repository 'actions/deploy-pages@v5' (SHA:cd2ce8fcbc39b97be8ca5fce6e763baed58fa128)
+2026-07-03T16:13:06.3882220Z Complete job name: deploy
+2026-07-03T16:13:06.4667046Z ##[group]Run actions/deploy-pages@v5
+2026-07-03T16:13:06.4667923Z with:
+2026-07-03T16:13:06.4672144Z   token: ***
+2026-07-03T16:13:06.4672578Z   timeout: 600000
+2026-07-03T16:13:06.4673018Z   error_count: 10
+2026-07-03T16:13:06.4673494Z   reporting_interval: 5000
+2026-07-03T16:13:06.4673996Z   artifact_name: github-pages
+2026-07-03T16:13:06.4674495Z   preview: false
+2026-07-03T16:13:06.4675126Z ##[endgroup]
+2026-07-03T16:13:06.6681361Z (node:2160) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-07-03T16:13:06.6683070Z (Use `node --trace-deprecation ...` to show where the warning was created)
+2026-07-03T16:13:06.7662344Z Fetching artifact metadata for "github-pages" in this workflow run
+2026-07-03T16:13:06.8407605Z Found 1 artifact(s)
+2026-07-03T16:13:06.8421089Z Creating Pages deployment with payload:
+2026-07-03T16:13:06.8422292Z {
+2026-07-03T16:13:06.8423119Z 	"artifact_id": 8070953992,
+2026-07-03T16:13:06.8424569Z 	"pages_build_version": "d845103fea161d25a800d988fd83ac0a5ed117cf",
+2026-07-03T16:13:06.8512403Z 	"oidc_token": "***"
+2026-07-03T16:13:06.8513392Z }
+2026-07-03T16:13:07.1053923Z Created deployment for d845103fea161d25a800d988fd83ac0a5ed117cf, ID: d845103fea161d25a800d988fd83ac0a5ed117cf
+2026-07-03T16:13:12.1064042Z Getting Pages deployment status...
+2026-07-03T16:13:12.2495997Z ##[error]Deployment failed, try again later.
+2026-07-03T16:13:12.2800481Z Evaluate and set environment url
+2026-07-03T16:13:12.2805765Z Evaluated environment url: https://profaaudy.github.io/mapao_26/
+2026-07-03T16:13:12.2806882Z Cleaning up orphan processes
