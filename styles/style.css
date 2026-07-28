@@ -560,15 +560,66 @@ tr:hover { background-color: #f8fafc; }
     border-color: #94a3b8;
 }
 
-/* Regra de impressão para o modal */
+/* Botão do Relatório por Disciplina */
+.btn-report-subject {
+    background: linear-gradient(135deg, #8b5cf6, #6d28d9);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 20px;
+    font-size: 0.95em;
+    font-family: inherit;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    box-shadow: 0 2px 4px rgba(139, 92, 246, 0.25);
+    transition: all 0.2s ease-in-out;
+    height: 45px;
+}
+
+.btn-report-subject:hover {
+    background: linear-gradient(135deg, #7c3aed, #5b21b6);
+    box-shadow: 0 4px 8px rgba(139, 92, 246, 0.35);
+    transform: translateY(-1px);
+}
+
+.btn-report-subject:active {
+    transform: translateY(0);
+}
+
+/* Badge de Alunos Afetados por Disciplina */
+.badge-count {
+    background: #fef2f2;
+    color: #dc2626;
+    border: 1px solid #fecaca;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.student-list-pill {
+    font-size: 0.8em;
+    color: #475569;
+    background: #f1f5f9;
+    padding: 2px 8px;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 2px;
+}
+
+/* Regra de impressão para os modais */
 @media print {
     body * {
         visibility: hidden;
     }
-    #report-modal, #report-modal * {
+    #report-modal, #report-modal *,
+    #subject-report-modal, #subject-report-modal * {
         visibility: visible;
     }
-    #report-modal {
+    #report-modal, #subject-report-modal {
         position: absolute;
         left: 0;
         top: 0;
