@@ -6,8 +6,3 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Windows system files
-desktop.ini
-**/desktop.ini
-
